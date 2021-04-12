@@ -22,9 +22,7 @@ information:
 
 ## Behance Website Redesign
 
-Ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+a cooomeer! 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
 odit. A facere tempore soluta laborum.
