@@ -1,6 +1,6 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "https://iibmers.org"
+baseURL = "https://iibmers.org/"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 # Number of posts per page in list view
@@ -13,7 +13,7 @@ disableLanguages = []
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
 googleAnalytics = ""
-
+publishDir = "docs"
 
 ################################# Output formats ##############################
 # Documentation: https://gohugo.io/templates/output-formats/#customizing-output-formats
