@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/slider-bg.jpg"
+  bg_image: "images/Nebula (1).jpg"
   bg_overlay: true
   title: "Self-organized biological and medical engineering postgrade students"
   content: "We love interdisciplinary science and engineering"
