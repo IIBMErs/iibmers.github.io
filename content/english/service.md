@@ -1,5 +1,5 @@
 ---
-title: "Service"
+title: "Approach"
 description: "this is meta description"
 bg_image: "images/feature-bg.jpg"
 layout: "service"
@@ -8,7 +8,7 @@ draft: false
 ########################### about service #############################
 about:
   enable : true
-  title : "Interdisciplinary approach"
+  title : "Interdisciplinarity"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta corporis odit, optio
           cum! Accusantium numquam ab, natus excepturi architecto earum ipsa aliquam, illum, omnis rerum, eveniet
           officia nihil. Eum quod iure nulla, soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit
