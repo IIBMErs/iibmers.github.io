@@ -6,7 +6,6 @@ layout: "about"
 draft: false
 
 
-
 ################################## About #####################################
 about:
   enable : true
@@ -24,25 +23,6 @@ about:
     label : "Download Company Profile"
     link : "#"
 
-mission_vision:
-  enable : true
-  tabs:
-  # tab item loop
-  - name : "Vision"
-    content : "To be a world-class interdisciplinary student organization, both in teaching and research."
-    
-  # tab item loop
-  - name : "Mission"
-    content : "To promote interdisciplinary work by generating a student community, creating instances of networking with students and professors from different faculties and from external institutions such as colleges and other universities."
-    
-  # tab item loop
-  - name : "Objectives"
-    content : "To do interdisciplinary projects with impact in society. To reduce knowledge barriers between different areas, by creating educational resources."
-    
-
-
-
-#################################### testimonial & mission vision #######################################
   funfacts:
   # funfacts loop
   - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -73,11 +53,6 @@ mission_vision:
   - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Awards Winner"
     count : "20"
-
-testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
-
     
 ################################ feature #####################################
 features:
@@ -115,6 +90,25 @@ features:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
   
 
+#################################### testimonial & mission vision #######################################
+testimonial:
+  enable : true
+  # testimonial content comes from "data/*/homepage.yml" file
+
+mission_vision:
+  enable : true
+  tabs:
+  # tab item loop
+  - name : "Vision"
+    content : "To be a world-class interdisciplinary student organization, both in teaching and research."
+    
+  # tab item loop
+  - name : "Mission"
+    content : "To promote interdisciplinary work by generating a student community, creating instances of networking with students and professors from different faculties and from external institutions such as colleges and other universities."
+    
+  # tab item loop
+  - name : "Objectives"
+    content : "To do interdisciplinary projects with impact in society. To reduce knowledge barriers between different areas, by creating educational resources."
 
 
 ############################# call to action #################################
