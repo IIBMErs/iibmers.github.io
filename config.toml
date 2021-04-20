@@ -78,7 +78,7 @@ action = "#"
 ################################# Google map ##################################
 [params.gmap]
 enable = true
-gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
+gmap_api = "AIzaSyAFAAftdnGMHyfPR_eX1bdq67TfCmecXVM"
 map_latitude = "-33.4986007"
 map_longitude = "-70.6120428"
 map_marker = "images/marker.png"
