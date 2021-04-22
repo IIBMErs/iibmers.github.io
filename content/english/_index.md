@@ -90,16 +90,16 @@ funfacts:
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
               
   # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+  - name: "Gonzalo Vidal"
+    image: "https://github.com/IIBMErs/iibmers.github.io/blob/main/static/images/ppictures/g-vidal.jpg"
+    designation: "Synthetic Biologist"
+    content: "Survived a whole month just eating cereal and milk."
               
   # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+  - name: "Carlos Castillo"
+    image: "https://github.com/IIBMErs/iibmers.github.io/blob/main/static/images/ppictures/chorocastillo.jpeg"
+    designation: "MR physicist"
+    content: "Chilean champion of Rubik´s cube speed solving in 2009"
 
 
 ---
