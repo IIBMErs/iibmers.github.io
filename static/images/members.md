@@ -1,1 +1,0 @@
-Pictures of IIBMers members
