@@ -16,7 +16,7 @@ about:
   enable: true
   title: "About Us"
   description: " We are postgraduate students from the Institute for Biological and Medical Engineering doing fun interdisciplinary projects advancing science and engineering with impact in the society"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  content: "We are still defining ourselves."
   image: "images/wrapper-img.png"
 
 
@@ -24,18 +24,12 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "WE PROMOTE INTERDISCIPLINARITY"
+  content: " We are constantly generating new interdisciplinary projects to promote the colaboration between students with different background and looking for funding to execute them.
   "
   button:
     enable: true
-    label: "View Works"
+    label: "View our projects"
     link: "project"
 
 
@@ -49,11 +43,11 @@ service:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Let's collaborat"
+  content: "We are constantly looking for people to join our project and helping with projects that are interesting and educational for us."
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Collaborate"
     link: "contact"
 
 ############################# Funfacts ###############################
