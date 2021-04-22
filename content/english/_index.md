@@ -8,7 +8,7 @@ banner:
   content: "Self-organized Biological and Medical Engineering postgraduate students"
   button:
     enable: true
-    label: "Discover Our Project"
+    label: "Discover Our Projects"
     link: "project"
 
 ############################# About #################################
@@ -91,13 +91,13 @@ funfacts:
               
   # testimonial item loop
   - name: "Gonzalo Vidal"
-    image: "https://github.com/IIBMErs/iibmers.github.io/blob/main/static/images/ppictures/g-vidal.jpg"
+    image: "images/ppictures/g-vidal.jpg"
     designation: "Synthetic Biologist"
     content: "Survived a whole month just eating cereal and milk."
               
   # testimonial item loop
   - name: "Carlos Castillo"
-    image: "https://github.com/IIBMErs/iibmers.github.io/blob/main/static/images/ppictures/chorocastillo.jpeg"
+    image: "images/ppictures/chorocastillo.jpeg"
     designation: "MR physicist"
     content: "Chilean champion of Rubik´s cube speed solving in 2009"
 
