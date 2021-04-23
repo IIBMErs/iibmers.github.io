@@ -23,7 +23,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.jpg"
+  bg_image: "images/feature-bg.gif"
   title: "WE PROMOTE INTERDISCIPLINE"
   content: " We are constantly generating new interdisciplinary projects to promote the colaboration between students with different background and looking for funding to execute them.
   "
