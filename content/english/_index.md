@@ -79,7 +79,7 @@ funfacts:
   testimonial_slider:              
   # testimonial item loop
   - name: "Gonzalo Vidal"
-    image: "images/ppictures/g-vidal.jpg"
+    image: "images/ppictures/g-vidalsquare.jpg"
     designation: "Synthetic Biologist"
     content: "Survived a whole month just eating cereal and milk."
               
