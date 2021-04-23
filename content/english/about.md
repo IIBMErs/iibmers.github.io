@@ -9,7 +9,7 @@ draft: false
 ################################## About #####################################
 about:
   enable : true
-  image : "images/us.jpg"
+  image : "images/us.jpeg"
   title : "We strive to be the best and <br> make awesome work."
   content : "Our mission is to promote interdisciplinary work by generating a student community, creating instances of networking with students and professors from different faculties and from external institutions such as colleges and other universities.<br>
   <br>
