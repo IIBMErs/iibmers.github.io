@@ -16,7 +16,7 @@ about:
   enable: true
   title: "About Us"
   description: " We are students from the Institute for Biological and Medical Engineering doing fun interdisciplinary projects advancing science and engineering with impact in the society"
-  content: "Description to be continued(...)[https://youtu.be/cPCLFtxpadE?list=RDHgzGwKwLmgM]"
+  content: "Description to be continued..."
   image: "images/logo%20coin.png"
 
 
