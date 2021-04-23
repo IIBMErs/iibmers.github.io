@@ -1,6 +1,6 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "PPE3D"
+description: "Personal protective elements 3D printed"
 draft: false
 image : "images/portfolio/work2.jpg"
 bg_image: "images/feature-bg.jpg"
