@@ -9,7 +9,7 @@ draft: false
 about:
   enable : true
   title : "Interdisciplinarity"
-  content : "(Interdisciplinarity)[https://en.wikipedia.org/wiki/Interdisciplinarity] or interdisciplinary studies involves the combination of two or more academic disciplines into one activity (e.g., a research project). It draws knowledge from several other fields like sociology, anthropology, psychology, economics etc. It is about creating something by thinking across boundaries. It is related to an interdiscipline or an interdisciplinary field, which is an organizational unit that crosses traditional boundaries between academic disciplines or schools of thought, as new needs and professions emerge. Large engineering teams are usually interdisciplinary, as a power station or mobile phone or other project requires the melding of several specialties. However, the term "interdisciplinary" is sometimes confined to academic settings.
+  content : "Interdisciplinarity or interdisciplinary studies involves the combination of two or more academic disciplines into one activity (e.g., a research project). It draws knowledge from several other fields like sociology, anthropology, psychology, economics etc. It is about creating something by thinking across boundaries. It is related to an interdiscipline or an interdisciplinary field, which is an organizational unit that crosses traditional boundaries between academic disciplines or schools of thought, as new needs and professions emerge. Large engineering teams are usually interdisciplinary, as a power station or mobile phone or other project requires the melding of several specialties. However, the term "interdisciplinary" is sometimes confined to academic settings.
 
 The term interdisciplinary is applied within education and training pedagogies to describe studies that use methods and insights of several established disciplines or traditional fields of study. Interdisciplinarity involves researchers, students, and teachers in the goals of connecting and integrating several academic schools of thought, professions, or technologies—along with their specific perspectives—in the pursuit of a common task. The epidemiology of HIV/AIDS or global warming requires understanding of diverse disciplines to solve complex problems. Interdisciplinary may be applied where the subject is felt to have been neglected or even misrepresented in the traditional disciplinary structure of research institutions, for example, women's studies or ethnic area studies. Interdisciplinarity can likewise be applied to complex subjects that can only be understood by combining the perspectives of two or more fields.
 
@@ -25,19 +25,19 @@ featured_service:
     - name : "Science"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "(Science)[https://en.wikipedia.org/wiki/Science] (from the Latin word scientia, meaning "knowledge") is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe"
+      content : "Science (from the Latin word scientia, meaning "knowledge") is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe"
       
     # featured service item loop
     - name : "Engineering"
       icon : "ion-leaf"
       color : "primary-dark"
-      content : "(Engineering)[https://en.wikipedia.org/wiki/Engineering] is the use of scientific principles to design and build machines, structures, and other items, including bridges, tunnels, roads, vehicles, and buildings."
+      content : "Engineering is the use of scientific principles to design and build machines, structures, and other items, including bridges, tunnels, roads, vehicles, and buildings."
       
     # featured service item loop
     - name : "Education"
       icon : "ion-lightbulb"
       color : "primary-darker"
-      content : "(Education)[https://en.wikipedia.org/wiki/Education] is the process of facilitating learning, or the acquisition of knowledge, skills, values, morals, beliefs, and habits. Educational methods include teaching, training, storytelling, discussion and directed research."
+      content : "Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, morals, beliefs, and habits. Educational methods include teaching, training, storytelling, discussion and directed research."
 
       
 ############################# Service ###############################
