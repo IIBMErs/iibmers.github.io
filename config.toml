@@ -172,7 +172,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All Rights Reserved."
+copyright = "Copyright &copy; 2021 [IIBMers github](https://github.com/IIBMErs). All Rights Reserved."
 
 # Main menu
 [[languages.en.menu.main]]
