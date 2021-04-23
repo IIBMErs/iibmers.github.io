@@ -51,17 +51,17 @@ service:
           blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-flask #ionicon pack v2 : https://ionicons.com/v2/
       name: Synthetic Biology
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-printer #ionicon pack v2 : https://ionicons.com/v2/
       name: 3D Printing
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ionic #ionicon pack v2 : https://ionicons.com/v2/
       name: Electronics
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
@@ -71,22 +71,22 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-code-working #ionicon pack v2 : https://ionicons.com/v2/
       name: Programming/AI
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/
       name: Imaging
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-pulse #ionicon pack v2 : https://ionicons.com/v2/
       name: Physiology
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/
       name: Education
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       

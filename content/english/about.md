@@ -1,6 +1,6 @@
 ---
 title: "About Our Company"
-description: "this is meta description"
+description: "Add description"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -11,15 +11,14 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-          
-          
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  content : "Our mission is to promote interdisciplinary work by generating a student community, creating instances of networking with students and professors from different faculties and from external institutions such as colleges and other universities.<br>
+  <br>
+  Our vision is to to be a world-class interdisciplinary student organization, both in teaching and research.<br>
+  <br>        
+  Our main objectives are to do interdisciplinary projects with impact in society and to reduce knowledge barriers between different areas, by creating educational resources."
 
   button:
-    enable : true
+    enable : false
     label : "Download Company Profile"
     link : "#"
 
@@ -27,7 +26,7 @@ about:
   # funfacts loop
   - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Completed Projects"
-    count : "349"
+    count : "123"
     
   # funfacts loop
   - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
@@ -56,7 +55,7 @@ about:
     
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are indepented Design & Development Agency"
   feature_item:
   # feature item loop
@@ -92,11 +91,11 @@ features:
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
+  enable : false
   # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
-  enable : true
+  enable : false
   tabs:
   # tab item loop
   - name : "Vision"
