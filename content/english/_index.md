@@ -9,14 +9,14 @@ banner:
   button:
     enable: true
     label: "Discover Our Projects"
-    link: "project"
+    link: "https://github.com/IIBMErs"
 
 ############################# About #################################
 about:
   enable: true
   title: "About Us"
   description: " We are students from the Institute for Biological and Medical Engineering doing fun interdisciplinary projects advancing science and engineering with impact in the society"
-  content: "Description to be continued..."
+  content: "Description to be continued(...)[https://youtu.be/cPCLFtxpadE?list=RDHgzGwKwLmgM]"
   image: "images/logo%20coin.png"
 
 
@@ -88,11 +88,5 @@ funfacts:
     image: "images/ppictures/chorocastillo.jpeg"
     designation: "MR physicist"
     content: "Chilean champion of Rubik´s cube speed solving in 2009"
-    
-  # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
 ---
