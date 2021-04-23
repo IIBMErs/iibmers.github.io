@@ -22,7 +22,7 @@ featured_service:
     - name : "Science"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "Science (from the Latin word scientia, meaning "knowledge") is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe"
+      content : "Science (from the Latin word scientia, meaning 'knowledge') is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe"
       
     # featured service item loop
     - name : "Engineering"
