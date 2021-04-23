@@ -87,7 +87,7 @@ map_marker = "images/marker.png"
 ################################# Preloader ###################################
 [params.preloader]
 enable = true
-preloader = "" # use .png , .svg or .gif image
+preloader = "/images/logo%20coin.png" # use .png , .svg or .gif image
 
 
 ################################# Cookies #####################################
