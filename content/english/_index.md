@@ -9,7 +9,7 @@ banner:
   button:
     enable: true
     label: "Discover Our Projects"
-    link: "https://github.com/IIBMErs"
+    link: "project"
 
 ############################# About #################################
 about:
@@ -29,8 +29,8 @@ portfolio:
   "
   button:
     enable: true
-    label: "View our projects"
-    link: "project"
+    label: "Visit our GitHub"
+    link: "https://github.com/IIBMErs"
 
 
 ############################# Service ############################
