@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "Add description"
+title: "About Our Organization"
+description: "Self-organized Biological and Medical Engineering students"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
