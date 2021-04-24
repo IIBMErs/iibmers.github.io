@@ -4,21 +4,19 @@ description: "Plant growing automation"
 draft: false
 image : "images/CorcheaR1_0107.jpeg"
 bg_image: "images/feature-bg.jpg"
-category: "UI/UX Design"
+category: "Open-Hardware, AI, Images"
 information:
   - label : "Leader"
     info : "Gonzalo Vidal"
   - label : "What We are Doing"
     info : "Automating plant growing using AI, Open Hardware and Imaging"
   - label : "Tools Used"
-    info : "Raspberry pi w/ camera, Python, CR 10,  "
+    info : "Raspberry pi w/ camera, Python, CR-10 "
   - label : "Completed on"
     info : "Ongoing"
   - label : "Skills"
     info : "Electronics / Keras/ Tensorflow/ Fusion 360"
 ---
-
-## README
 
 ## Description
 Bernardo is a plant growing automation system, it has 3 levels
