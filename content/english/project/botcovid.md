@@ -1,6 +1,6 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "BotCovid"
+description: "Chatbot that provides covid19 related information"
 draft: false
 image : "images/portfolio/work4.jpg"
 bg_image: "images/feature-bg.jpg"
