@@ -54,12 +54,12 @@
 {{ with .Params.portfolio }}
 {{ if .enable }}
 <!-- portfolio -->
-<section class="feature bg-2" style="background-image: url('{{ .bg_image | absURL}}')">
+<section class="feature bg-2 overly" style="background-image: url('{{ .bg_image | absURL}}')">
   <div class="container">
     <div class="row">
       <div class="col-md-6 col-md-offset-6">
         <h2 class="section-subtitle">{{ .title | markdownify }}</h2>
-        {{ .content | markdownify }}
+        <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
         <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}</a>
