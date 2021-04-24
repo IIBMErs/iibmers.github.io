@@ -2,7 +2,7 @@
 title: "Bernardo"
 description: "Plant growing automation"
 draft: false
-image : "images/CorcheaR1_0107.jpeg"
+image : "images/portfolio/CorcheaR1_0107.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Open-Hardware, AI, Images"
 information:
