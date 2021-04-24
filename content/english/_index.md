@@ -25,8 +25,7 @@ portfolio:
   enable: true
   bg_image: "images/feature-bg.gif"
   title: "WE PROMOTE INTERDISCIPLINE"
-  content: " We are constantly generating new interdisciplinary projects to promote the colaboration between students with different background and looking for funding to execute them.
-  "
+  content: "We are constantly generating new interdisciplinary projects to promote the colaboration between students with different background and looking for funding to execute them."
   button:
     enable: true
     label: "Visit our GitHub"
