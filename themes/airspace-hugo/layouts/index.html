@@ -62,7 +62,7 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }}<i class="ion ion-social-github"></i></a>
+        <a href="{{ .link | relLangURL }}" class="btn btn-view-works">{{ .label }} <i class="ion ion-social-github"></i></a>
         {{ end }}
         {{ end }}
       </div>
