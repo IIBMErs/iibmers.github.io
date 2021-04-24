@@ -30,15 +30,13 @@
             {{ range .Data.Pages }}
             <div class="col-md-4 portfolio-item shuffle-item" data-groups="[&quot;{{ .Params.Category | urlize }}&quot;]">
               <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}">
-              <a href="{{ .Permalink }}" style="display: block;">
               <div class="portfolio-hover">
                 <div class="portfolio-content">
                   <!--<a href="{{ .Params.Image | relURL }}" class="portfolio-popup"><i class="icon ion-search"></i></a>-->
-                  <a class="h3" href="{{ .Permalink }}">{{ .Title }}</a>
+                  <a class="h3" href="{{ .Permalink }}" style="display: block;">{{ .Title }}</a>
                   <p>{{ .Params.Description }}</p>
                 </div>
               </div>
-              </a>
             </div>
             {{ end }}
           </div>
