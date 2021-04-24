@@ -1,6 +1,6 @@
 ---
-title: "Rio Furniture"
-description: "this is meta description"
+title: "Networking"
+description: "Conference where IIBM students present their work to each other"
 draft: false
 image : "images/portfolio/work3.jpg"
 bg_image: "images/feature-bg.jpg"
