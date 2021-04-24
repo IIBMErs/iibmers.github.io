@@ -59,7 +59,7 @@ service:
       content: "Electronics comprises the physics, engineering, technology and applications that deal with the emission, flow and control of electrons in vacuum and matter."
 
     # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-person #ionicon pack v2 : https://ionicons.com/v2/
       name: Neurosciences
       content: "Neurosciences are a multidisciplinary science that combines physiology, anatomy, molecular biology, developmental biology, cytology, computer science and mathematical modeling to understand the fundamental and emergent properties of neurons and neural circuits."
 
