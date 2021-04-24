@@ -4,7 +4,7 @@ description: "Plant growing automation"
 draft: false
 image : "images/portfolio/CorcheaR1_0107.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Open-Hardware; AI; Images"
+category: "OpenHardware"
 information:
   - label : "Leader"
     info : "Gonzalo Vidal"
