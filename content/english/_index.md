@@ -43,7 +43,7 @@ cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "Let's collaborate"
-  content: "We are constantly looking for people to join our projects and helping with projects that are interesting and educational for us."
+  content: "We are constantly looking for people to join our projects and to help with projects that are interesting and educational for us."
   button:
     enable: true
     label: "Collaborate"
