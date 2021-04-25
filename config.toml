@@ -102,7 +102,7 @@ icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://twitter.com/IIBMErs_"
 
 [[params.social]]
-icon = "ion-social-instagram-outlinee" #ionicon pack v2 : https://ionicons.com/v2/
+icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "https://www.instagram.com/iibmers/"
 
 [[params.social]]
