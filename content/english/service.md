@@ -22,7 +22,7 @@ featured_service:
     - name : "Science"
       icon : "ion-erlenmeyer-flask"
       color : "primary"
-      content : "Science (from the Latin word scientia, meaning 'knowledge') is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe"
+      content : "Science is a systematic enterprise that builds and organizes knowledge in the form of testable explanations and predictions about the universe"
       
     # featured service item loop
     - name : "Engineering"
@@ -41,7 +41,7 @@ featured_service:
 service:
   enable : true
   title : "Disciplines"
-  description : "Here are some short descriptions from Wikipedia of the disciplines that we are currently using ande developing in our projects"
+  description : "Here are some short descriptions from Wikipedia of the disciplines that we are currently using and developing in our projects"
   service_item:
     # service item loop
     - icon : ion-ios-flask #ionicon pack v2 : https://ionicons.com/v2/
