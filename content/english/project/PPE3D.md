@@ -2,7 +2,7 @@
 title: "PPE3D"
 description: "Personal protective elements 3D printed"
 draft: false
-image : "images/portfolio/PPE3D.jpg"
+image : "images/portfolio/PPE3D.png"
 bg_image: "images/feature-bg.jpg"
 category: "Illustration"
 information:
