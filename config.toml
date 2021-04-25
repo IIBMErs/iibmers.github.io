@@ -98,29 +98,20 @@ expire_days = 2
 
 ################################# Social Media ################################
 [[params.social]]
-icon = "ion-social-googleplus-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-linkedin-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-pinterest-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
-icon = "ion-social-dribbble-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
-
-[[params.social]]
 icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://twitter.com/IIBMErs_"
+
+[[params.social]]
+icon = "ion-social-instagram-outlinee" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.instagram.com/iibmers/"
 
 [[params.social]]
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
-link = "#"
+link = "https://www.facebook.com/iibmers"
 
+[[params.social]]
+icon = "ion-social-youtube-outline" #ionicon pack v2 : https://ionicons.com/v2/
+link = "https://www.youtube.com/channel/UCkovYMRH5t05yrkC0AegO1A/featured"
 
 ################################# Plugins #####################################
 # CSS Plugins
