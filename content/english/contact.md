@@ -1,6 +1,6 @@
 ---
 title: "Drop Us A Note"
-description: "this is meta description"
+description: "Connect with us through a message or social networks"
 bg_image: "images/feature-bg.jpg"
 layout: "contact"
 draft: false
