@@ -2,7 +2,7 @@
 title: "Networking"
 description: "Conference where IIBM students present their work to each other"
 draft: false
-image : "images/portfolio/work3.jpg"
+image : "images/portfolio/networking%20169.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Video"
 information:
