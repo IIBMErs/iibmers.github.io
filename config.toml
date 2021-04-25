@@ -40,9 +40,9 @@ unsafe = true
 logo = "images/logo.gif"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
-title = "Airspace Hugo Template"
-description = "This is meta description"
-author = "Themefisher"
+title = "IIBMers"
+description = "Self-organized Biological and Medical Engineering students"
+author = "IIBMers"
 images = [ "images/logo.png" ] # First image here will be used as fallback if a page has no images of its own
 
 
