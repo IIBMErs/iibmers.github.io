@@ -3,7 +3,7 @@ title: "Bernardo"
 description: "Plant growing automation"
 draft: false
 image : "images/portfolio/CorcheaR1_0107.jpg"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/Nebula%20(1).jpg"
 category: "Open-Hardware"
 information:
   - label : "Leader"
