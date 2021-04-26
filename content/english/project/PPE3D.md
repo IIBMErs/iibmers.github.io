@@ -3,8 +3,8 @@ title: "PPE3D"
 description: "Personal protective elements 3D printed"
 draft: false
 image : "images/portfolio/PPE3D.jpg"
-bg_image: "images/feature-bg.jpg"
-category: "Illustration"
+bg_image: "images/Nebula%20(1).jpg"
+category: "Open-Hardware"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
