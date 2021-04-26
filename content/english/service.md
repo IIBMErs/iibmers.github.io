@@ -1,7 +1,7 @@
 ---
 title: "Approach"
-description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+description: "Interdiscipline"
+bg_image: "images/Nebula%20(1).jpg"
 layout: "service"
 draft: false
 
@@ -11,7 +11,7 @@ about:
   title : "Interdisciplinarity"
   content : "Interdisciplinarity or interdisciplinary studies involves the combination of two or more academic disciplines into one activity e.g. a research project. It draws knowledge from several other fields like sociology, anthropology, psychology, economics etc. It is about creating something by thinking across boundaries. It is related to an interdiscipline or an interdisciplinary field, which is an organizational unit that crosses traditional boundaries between academic disciplines or schools of thought, as new needs and professions emerge. Large engineering teams are usually interdisciplinary, as a power station or mobile phone or other project requires the melding of several specialties. However, the term 'interdisciplinary' is sometimes confined to academic settings."
 
-  image : "images/company/company-group-pic.jpg"
+  image : "images/logo%20coin.png"
 
 
 ########################## featured service ############################
