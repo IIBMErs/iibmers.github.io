@@ -1,7 +1,7 @@
 ---
 title: "IIBMers"
 email: "contact@iibmers.org"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/Nebula%20(1).jpg"
 draft: false
 social:
   - icon : "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
