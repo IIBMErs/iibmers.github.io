@@ -1,9 +1,9 @@
 ---
 title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
+description: "What do you want to know?"
+subtitle : "Let's find out!"
 lastmod: 2021-04-01T00:00:00
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/Nebula%20(1).jpg"
 layout: "faq"
 draft: false
 ---
