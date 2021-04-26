@@ -24,12 +24,12 @@ about:
 
   funfacts:
   # funfacts loop
-  - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "ion-ios-checkmark-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Completed Projects"
     count : "3"
     
   # funfacts loop
-  - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Lines Of Code"
     count : "+9000"
     
