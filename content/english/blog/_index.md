@@ -2,5 +2,5 @@
 title: "Latest News"
 description: "this is meta description"
 draft: false
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/Nebula%20(1).jpg"
 ---
