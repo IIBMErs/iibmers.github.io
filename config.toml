@@ -39,6 +39,7 @@ unsafe = true
 [params]
 logo = "images/logo.gif"
 logo_width = "200px"
+favicon = "images/favicon.png"
 # OpenGraph / Twitter Card metadata
 title = "IIBMers"
 description = "Self-organized Biological and Medical Engineering students"
