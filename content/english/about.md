@@ -26,32 +26,27 @@ about:
   # funfacts loop
   - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Completed Projects"
-    count : "123"
+    count : "3"
     
   # funfacts loop
   - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Lines Of Code"
-    count : "35000"
+    count : "+9000"
     
   # funfacts loop
-  - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Satisfied Customer"
-    count : "70"
-    
-  # funfacts loop
-  - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
+  - icon : "ion-battery-charging" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Current Projects"
     count : "10"
     
   # funfacts loop
-  - icon : "ion-ios-chatboxes-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Satisfied Customer"
-    count : "75"
+  - icon : "ion-cash" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Funds Raised (k$)"
+    count : "6.5"
     
   # funfacts loop
   - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
-    count : "20"
+    name : "People"
+    count : "15"
     
 ################################ feature #####################################
 features:
