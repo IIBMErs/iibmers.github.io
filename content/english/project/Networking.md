@@ -4,7 +4,7 @@ description: "Conference where IIBM students present their work to each other"
 draft: false
 image : "images/portfolio/networking%20169.jpg"
 bg_image: "images/Nebula%20(1).jpg"
-category: "Connection"
+category: "Community"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

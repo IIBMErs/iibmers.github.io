@@ -4,7 +4,7 @@ date: 2021-04-15T20:45:40-04:00
 draft: false
 image : "images/portfolio/work1.jpg"
 bg_image: "images/Nebula%20(1).jpg"
-category: "Connection"
+category: "Community"
 information:
   - label : "Client"
     info : "IIBMers"
