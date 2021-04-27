@@ -206,29 +206,24 @@ URL = "about"
 weight = 1
 
 [[languages.en.menu.footer]]
-name = "Project"
-URL = "project"
+name = "Projects"
+URL = "projects"
 weight = 2
+
+[[languages.en.menu.footer]]
+name = "Blog"
+URL = "blog"
+weight = 3
 
 [[languages.en.menu.footer]]
 name = "Approach"
 URL = "approach"
-weight = 3
-
-[[languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
 weight = 4
-
-[[languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
 
 [[languages.en.menu.footer]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 
 ################################# French translation ##########################
