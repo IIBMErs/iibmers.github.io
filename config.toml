@@ -190,26 +190,6 @@ URL = "blog"
 weight = 4
 
 [[languages.en.menu.main]]
-weight = 5
-name = "More"
-hasChildren = true
-
-  [[languages.en.menu.main]]
-  parent = "More"
-  name = "FAQ"
-  URL = "faq"
-
-  [[languages.en.menu.main]]
-  parent = "More"
-  name = "Pricing"
-  URL = "pricing"
-
-  [[languages.en.menu.main]]
-  parent = "More"
-  name = "Service"
-  URL = "service"
-
-[[languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
 weight = 6
