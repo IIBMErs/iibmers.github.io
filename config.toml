@@ -207,7 +207,7 @@ weight = 1
 
 [[languages.en.menu.footer]]
 name = "Projects"
-URL = "projects"
+URL = "project"
 weight = 2
 
 [[languages.en.menu.footer]]
