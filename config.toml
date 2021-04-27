@@ -180,8 +180,8 @@ URL = "about"
 weight = 2
 
 [[languages.en.menu.main]]
-name = "Project"
-URL = "project"
+name = "Projects"
+URL = "projects"
 weight = 3
 
 [[languages.en.menu.main]]
@@ -226,8 +226,8 @@ URL = "project"
 weight = 2
 
 [[languages.en.menu.footer]]
-name = "Service"
-URL = "service"
+name = "Approach"
+URL = "approach"
 weight = 3
 
 [[languages.en.menu.footer]]
