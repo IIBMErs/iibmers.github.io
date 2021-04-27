@@ -73,8 +73,8 @@ funfacts:
     
   # funfacts loop
   - icon : "ion-cash" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Funds Raised (k$)"
-    count : "6.5"   
+    name : "Funds Raised ($)"
+    count : "6500"   
  
   testimonial_slider:              
   # testimonial item loop
