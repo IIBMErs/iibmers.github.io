@@ -75,7 +75,7 @@ use_netlify = false
 # Form action
 ## For Formspree.io: Your Form ID URL, e.g. `https://formspree.io/f/{form_id}`
 ## For Netlify Forms: Path to a custom [success page](https://docs.netlify.com/forms/setup/#success-messages)
-action = "#"
+action = "https://formspree.io/f/xeqveojz"
 
 
 ################################# Google map ##################################
