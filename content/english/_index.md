@@ -55,26 +55,27 @@ funfacts:
   title: "Fun Facts About Us"
   description: "'A long time ago <br>  in a galaxy far far away...'"
   funfact_item:
-  # funfacts item loop
-  - icon: "ion-coffee" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Cups Of Coffee"
-    count: "99"
+  
+  # funfacts loop
+  - icon : "ion-ios-checkmark-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Completed Projects"
+    count : "3"
     
-  # funfacts item loop
-  - icon: "ion-ios-glasses-outline" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Article Written"
-    count: "45"
+  # funfacts loop
+  - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Lines Of Code"
+    count : "+9000"
+           
+  # funfacts loop
+  - icon : "ion-battery-charging" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Current Projects"
+    count : "10"
     
-  # funfacts item loop
-  - icon: "ion-checkmark-circled" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Projects Completed"
-    count: "10"
-    
-  # funfacts item loop
-  - icon: "ion-merge" #ionicon pack v2: https://ionicons.com/v2/
-    name: "Combined Projects"
-    count: "10"
-
+  # funfacts loop
+  - icon : "ion-cash" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Funds Raised (k$)"
+    count : "6.5"   
+ 
   testimonial_slider:              
   # testimonial item loop
   - name: "Gonzalo Vidal"
