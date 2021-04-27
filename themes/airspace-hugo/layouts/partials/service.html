@@ -1,5 +1,5 @@
 {{ with site.GetPage "/approach"}}
-{{ with .Params.approach }}
+{{ with .Params.service }}
 <section class="service">
   <div class="container">
     <div class="row">
@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="row">
-      {{ range .approach_item }}
+      {{ range .service_item }}
       <div class="col-sm-6 col-md-3">
         <div class="service-item">
           <i class="icon {{ .icon }}"></i>
