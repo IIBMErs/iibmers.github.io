@@ -190,6 +190,11 @@ URL = "blog"
 weight = 4
 
 [[languages.en.menu.main]]
+name = "Approach"
+URL = "approach"
+weight = 5
+
+[[languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
 weight = 6
