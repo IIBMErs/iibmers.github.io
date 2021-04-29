@@ -88,5 +88,11 @@ funfacts:
     image: "images/ppictures/chorocastillo.jpeg"
     designation: "MR physicist"
     content: "Chilean champion of Rubik´s cube speed solving in 2009"
+    
+  # testimonial item loop
+  - name: "Gabriela Vargas"
+    image: "images/ppictures/Gaby.jpeg"
+    designation: "Computational Neuroscientist"
+    content: "Has a dance career in Europe"
 
 ---
