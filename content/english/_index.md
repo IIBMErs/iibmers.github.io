@@ -59,7 +59,7 @@ funfacts:
   # funfacts loop
   - icon : "ion-ios-checkmark-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Completed Projects"
-    count : "3"
+    count : "9"
     
   # funfacts loop
   - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
@@ -91,8 +91,20 @@ funfacts:
     
   # testimonial item loop
   - name: "Gabriela Vargas"
-    image: "images/ppictures/Gaby.jpeg"
+    image: "images/ppictures/Gaby%20Cropped.jpg"
     designation: "Computational Neuroscientist"
     content: "Has a dance career in Europe"
+    
+    # testimonial item loop
+  - name: "Carlos Valle"
+    image: "images/ppictures/CValle%20Cropped.jpg"
+    designation: "Computational Neuroscientist"
+    content: "A random cat peed his computer and burned its motherboard."
+    
+    # testimonial item loop
+  - name: "Axel Sepúlveda"
+    image: "images/ppictures/Axel%20Cropped.jpg"
+    designation: "Electric engineer"
+    content: "Solar car racing pilot. "
 
 ---
