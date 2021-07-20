@@ -28,4 +28,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           # publish_dir: ./docs  # Deploy a la carpeta ./docs
+          publish_dir: ./public
           cname: iibmers.org
