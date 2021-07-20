@@ -23,6 +23,7 @@ https://gohugo.io/getting-started/installing/
 
 ## Usar el repositorio como plantilla web
 Para usar este repo como plantilla para otra pagina web: 
+
 Opcion 1. 
 - Hacer fork del repositorio, activar y configurar git hub pages (Settings > Pages) para que haga deploy de la web desde el /root de la branch gh-pages
 
