@@ -27,6 +27,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # publish_dir: ./docs  # Deploy a la carpeta ./docs
-          publish_dir: ./public
+          publish_dir: ./docs  # Deploy a la carpeta ./docs          
           cname: iibmers.org
