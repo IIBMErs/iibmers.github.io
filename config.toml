@@ -13,7 +13,7 @@ disableLanguages = []
 disqusShortname = "" # Get your shortname from here: https://disqus.com/profile/signup/
 # Measurement ID (G-XXXXXXX) to enable Google Analytics
 googleAnalytics = ""
-publishDir = "docs"
+publishDir = "docs"  # debe coincidir con lo que se configure en el workflow ( si es que se hace el deploy con github actions)
 
 ################################# Output formats ##############################
 # Documentation: https://gohugo.io/templates/output-formats/#customizing-output-formats
