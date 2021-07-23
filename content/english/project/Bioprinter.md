@@ -10,3 +10,5 @@ category: "Open-Hardware"
 ## Bioprinter
 
 ToDo: Description 
+ 
+I have been working on the extruder design
