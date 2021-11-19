@@ -4,8 +4,8 @@ date: 2021-11-19T11:07:10+06:00
 author: Carlos Castillo
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Company News"]
-tags: ["Advice","Technology"]
+categories: ["Events"]
+tags: ["Community","Technology"]
 description: "This is the infromation of the networking event organized by the IIBM postgraduate students (IIBMers). This event will be held on the 21st of December 2021."
 draft: false
 type: "post"
