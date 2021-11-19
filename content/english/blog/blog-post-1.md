@@ -11,8 +11,6 @@ draft: false
 type: "post"
 ---
 
-## Description
-
 The "IIBM Networking 2021" is an instance to know each others research and increase interdisciplinary colaborations. Will be held on November 3rd virtually. 
 
 ## Important dates
