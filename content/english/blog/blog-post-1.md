@@ -11,7 +11,7 @@ draft: false
 type: "post"
 ---
 
-The "IIBM Networking 2021" is an instance to know each others research and increase interdisciplinary colaborations. Will be held on November 3rd virtually. 
+The "IIBM Networking 2021" is an instance to know each others research and increase interdisciplinary colaborations. Will be held on December 14h virtually. 
 
 ## Important dates
 
@@ -22,7 +22,7 @@ Virtual event/stream: **December/21**
 ## Register
 
 ### Postgraduate 
-Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSfkcXWRbVFJqf1Ha86PBapHeKbjdZ2pi5zQNIEn7n9eIRdgXQ/viewform?usp=sf_link)
+Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSc8uAowqjW6cFL-3r9g-EX1xzo1EkXEY0JvI877qcTi_YOuTQ/viewform?usp=sf_link)
 
 The postgraduate format is a 3 slides **3 minutes presentation**.
 
