@@ -1,64 +1,94 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
+title: "IIBM Networking 2021"
+date: 2021-11-19T11:07:10+06:00
+author: Carlos Castillo
 image : "images/blog/blog-post-1.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Company News"]
-tags: ["Advice","Technology"]
-description: "this is meta description"
+categories: ["Events"]
+tags: ["Community","Technology"]
+description: "This is the infromation of the networking event organized by the IIBM postgraduate students (IIBMers). This event will be held on the 21st of December 2021."
 draft: false
 type: "post"
 ---
 
+The "IIBM Networking 2021" is an instance to know each others research and increase interdisciplinary colaborations. Will be held on December 14h virtually. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+## Important dates
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+Abstract/breakout/workshop submission deadline: **December/14**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+Virtual event/stream: **December/21**
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+## Register
+
+### Postgraduate 
+Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSc8uAowqjW6cFL-3r9g-EX1xzo1EkXEY0JvI877qcTi_YOuTQ/viewform?usp=sf_link)
+
+The postgraduate format is a 3 slides **3 minutes presentation**.
+
+You can download and use this [Template 3 slides pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%203%20page.pptx)
+
+### Undergraduate
+Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSc58NRzUGHDVh088cv8hWc-5c_cRuPbSCJfaBRXRx1fxGyhhQ/viewform?usp=sf_link)
+
+The undergraduate format is a 1 slide **1 minute presentation**.
+
+You can download and use this [Template 1 slide pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx)
+
+### Breakout room proposal
+Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdTSCjS7YmxSmdnOpQmdK1ITtFL1jdc9MRECXo1LQPaGOesng/viewform?usp=sf_link)
+
+A breakout room is a discussion room about presentations topics. Its uses are ment to be questions about presentations, relaxed and informal discussion about the topic and its future. Breakout rooms will count with moderators that will stay in that room and assistants that can explore, join and stay in all available rooms. 
+
+### Workshop proposal
+Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdwE-EEdabz2bOLFyW4XRdaN6SfaduGyjFfPWKT8UmeJLoMKA/viewform?usp=sf_link)
+
+Workshops will take place after the networking, and are really flexible being the workshop speaker who sets everything about it. Assistants can register to available workshops during the networking.
+
+## Schedule
+
+|**Activity**|Time (GMT-3)|
+|---|-----|
+|Start, Welcome to the event!|9:30-9:40|
+|IIBM Introduction|9:40-10:00|
+|Presentations Block 1<br>(keynote speaker and postgraduate presentations)|10:00-11:15|
+|Break|11:15-11:30|
+|Presentations Block 2<br>(keynote speaker, postgraduate and undergraduate presentations)|11:30-13:00|
+|Lunch|13:00-14:00|
+|Presentations Block 3<br>(keynote speaker, postgraduate presentations)| 14:00-15:30|
+|Break|15:30-15:45|
+|Parallel Breakout Rooms discussion groups 1|15:45-16:30|
+|Break|16:30-16:45|
+|Parallel Breakout Rooms discussion groups 2|16:45-17:30|
+|General breakout room and awards!|17:30-18:00|
+|Final words and Farewell|18:00-18:15|
+
+The schedule is tentative.
+
+## Platforms
+
+The networking will take place virtually via [Zoom](https://zoom.us/).
+And will be public streamed and available via [IIBMErs YouTube channel]()
 
 
-* hello
-* hello
-* hello
-* hello
-* hello
+## Organizators
 
-1. hello
-2. hello
-3. hello
-4. hello
+This networking is a Biological and Medical Engineering postgraduate students initiative, grouped in IIBMErs. Supported by the Institute for Biological and Medical Engineering [IIBM](https://ingenieriabiologicaymedica.uc.cl/en/). You can contact us using GitHub issues.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+<p align="center">
+    <a href="mailto:networking.iibmers@gmail.com">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/email.png?raw=true" width="23" >
+    </a>
+    <a href="https://twitter.com/IIBMErs_">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/twitter.png?raw=true" width="23" />
+    </a> 
+    <a href="https://www.youtube.com/channel/UCkovYMRH5t05yrkC0AegO1A?view_as=subscriber">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/youtube.png?raw=true" width="31" />
+    </a>
+    <a href="https://www.instagram.com/iibmers/?hl=en">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/insta.png?raw=true" width="27" >
+    </a>
+    <a href="https://github.com/IIBMErs">
+        <img src="https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/images/github.png?raw=true" width="21" >
+    </a>
+</p>
