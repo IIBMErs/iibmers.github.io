@@ -16,7 +16,7 @@ During 2021, we have been working remotely in different projects, we obtained fu
 
 You can see the post from different sources:
 - Vive la UC. ESTUDIANTES DE POSTGRADO DESTACAN EN LOS FONDOS CONCURSABLES 2021 [here](https://vidauniversitaria.uc.cl/noticias/voluntarios-por-la-salud-y-podcast-feminista-son-algunos-de-los-ganadores-de-fondos-concursables-dae-2021) 
-- 
+
 - Vive la UC. VOLUNTARIOS POR LA SALUD Y PODCAST FEMINISTA SON ALGUNOS DE LOS GANADORES DE FONDOS CONCURSABLES DAE 2021 [here](https://vidauniversitaria.uc.cl/noticias/voluntarios-por-la-salud-y-podcast-feminista-son-algunos-de-los-ganadores-de-fondos-concursables-dae-2021) 
 
 - Ingeniería biológica y médica. Exitosos resultados de alumnos de postgrado en IIBM en la 2° Convocatoria a Fondos Concursables 2021 de la DAE [here](https://ingenieriabiologicaymedica.uc.cl/es/noticias-y-eventos/noticias/885-exitosos-resultados-de-alumnos-de-postgrado-en-iibm-en-la-2-convocatoria-a-fondos-concursables-2021-de-la-dae)
