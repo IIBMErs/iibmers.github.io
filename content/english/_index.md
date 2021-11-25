@@ -17,7 +17,7 @@ about:
   title: "About Us"
   description: " We are students from the Institute for Biological and Medical Engineering doing fun interdisciplinary projects advancing science and engineering with impact in the society"
   content: " We self-organized to lead and create environments that promotes synergistic interdisciplinary work, communication and friendship. We give experience working togheter to students with different background through interdisciplinary projects. The projects are Open-Source, with impact in society and aim to reduce knowledge barriers between different areas, by creating educational resources."
-  image: "images/logo%20coin.png"
+  image: "images/logo-coin.png"
 
 
 ######################### Portfolio ###############################

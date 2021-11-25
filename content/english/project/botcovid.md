@@ -4,7 +4,7 @@ description: "Chatbot that provides covid19 related information"
 draft: false
 image : "images/portfolio/botcovid%20169.jpg"
 bg_image: "images/Nebula%20(1).jpg"
-category: "AI"
+category: "A I"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
