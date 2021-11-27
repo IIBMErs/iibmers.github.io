@@ -11,7 +11,7 @@ draft: false
 type: "post"
 ---
 
-The "IIBM Networking 2021" is an instance to know each others research and increase interdisciplinary colaborations. Will be held on December 14h virtually. 
+The "IIBM Networking 2021" is an instance to know each others research and increase interdisciplinary colaborations. Will be held on December 21th virtually. 
 
 ## Important dates
 
@@ -21,17 +21,22 @@ Virtual event/stream: **December/21**
 
 ## Register
 
+### Assistant
+Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdkc4MNrP0fX3qZFKh3bAnx0L34hYEAY26pjpXn_NvjTr8G6w/viewform?usp=sf_link)
+
+Assistants can participate in all instances of the event but do not present.
+
 ### Postgraduate 
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSc8uAowqjW6cFL-3r9g-EX1xzo1EkXEY0JvI877qcTi_YOuTQ/viewform?usp=sf_link)
 
-The postgraduate format is a 3 slides **3 minutes presentation**.
+The postgraduate suggested format is a 3 slides **5 minutes presentation**.
 
 You can download and use this [Template 3 slides pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%203%20page.pptx)
 
 ### Undergraduate
 Fill this [Form](https://docs.google.com/forms/d/e/1FAIpQLSc58NRzUGHDVh088cv8hWc-5c_cRuPbSCJfaBRXRx1fxGyhhQ/viewform?usp=sf_link)
 
-The undergraduate format is a 1 slide **1 minute presentation**.
+The undergraduate suggested format is a 1 slide **1 minute presentation**.
 
 You can download and use this [Template 1 slide pptx](https://github.com/IIBMErs/1st-IIBM-Networking-2020/blob/master/templates/Template%201%20page.pptx)
 
