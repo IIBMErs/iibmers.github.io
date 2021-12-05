@@ -12,9 +12,8 @@ type: "post"
 ---
 
 
-Art Digital Life (ADL) present to the public a series of art/science pieces in which there is no boundry between them. Art influxes science and science produces beautiful artworks.
-People may see arts and sciences as different things, even oposites. But the trith is that both are just what people do for fun, things that humans enjoy. 
-We are truly passionate about science and engineering, and we want to express that to the people through art.
-The event showed a serie of stuning visualizations of algorithms and techniques that we use in research, exploring through different approaches how biological systems works.
+Art Digital Life (ADL) present to the public a series of art/science pieces in which there is no boundary between them. Art influxes science and science produces beautiful artworks. People may see arts and sciences as different things, even oposites. But the truth is that both are just what people do for fun, things that humans enjoy. We are truly passionate about science and engineering, and we want to express that to the people through art. The event showed a serie of stunning visualizations of algorithms and techniques that we use in research, exploring through different approaches how biological systems works.
 
 We thank Gabriela Vargas and Vladimir Morgado for organizing this event. Casaplan was a very nice and friendly place for having this event at the heart of Valparaíso.
+
+<iframe width="1184" height="666" src="https://www.youtube.com/embed/EocuSkHZzmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
