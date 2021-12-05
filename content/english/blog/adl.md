@@ -1,6 +1,6 @@
 ---
 title: "Art Digital Life (ADL) 2021"
-date: 2021-11-20T11:07:10+06:00
+date: 2021-12-03T18:00:00+06:00
 author: IIBMers
 image : "images/events/ADL_event.jpg"
 bg_image: "images/events/ADL_event.jpg"
