@@ -1,8 +1,8 @@
 ---
 title: "IIBM Networking 2021"
-date: 2021-11-19T11:07:10+06:00
-author: Carlos Castillo
-image : "images/blog/blog-post-1.jpg"
+date: 2021-12-21T11:07:10+06:00
+author: IIBMers
+image : "images/IIBM%20Networking%202021.jpeg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Events"]
 tags: ["Community","Technology"]
@@ -18,6 +18,10 @@ The "IIBM Networking 2021" is an instance to know each others research and incre
 Abstract/breakout/workshop submission deadline: **December/14**
 
 Virtual event/stream: **December/21**
+
+Presentations will be in English and Spanish to dont make the language a barrier to communicate your ideas and research.
+
+Presenters can choose to present 1 or 5 minutes, whatever makes them feel more comfortable.
 
 ## Register
 
