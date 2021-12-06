@@ -16,4 +16,4 @@ Art Digital Life (ADL) present to the public a series of art/science pieces in w
 
 We thank Gabriela Vargas and Vladimir Morgado for organizing this event. Casaplan was a very nice and friendly place for having this event at the heart of Valparaíso.
 
-<iframe width="1184" height="666" src="https://www.youtube.com/embed/EocuSkHZzmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/EocuSkHZzmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
