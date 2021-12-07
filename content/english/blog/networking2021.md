@@ -1,6 +1,6 @@
 ---
 title: "IIBM Networking 2021"
-date: 2021-12-21T11:07:10+06:00
+date: 2021-12-05T11:07:10+06:00
 author: IIBMers
 image : "images/IIBM%20Networking%202021.jpeg"
 bg_image: "images/feature-bg.jpg"
