@@ -11,7 +11,7 @@ information:
   - label : "What We Did"
     info : "Conference"
   - label : "License"
-    info : "Creative Commons Atribution"
+    info : "CC Atribution"
   - label : "Date"
     info : "3rd November 2020"
   - label : "Place"
