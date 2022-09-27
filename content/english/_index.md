@@ -8,8 +8,12 @@ banner:
   content: "Self-organized Biological and Medical Engineering students"
   button:
     enable: true
-    label: "Discover Our Projects"
-    link: "project"
+    label: "Join us on October 28th in our 1st Annual PhD. Symposium"
+    link: "project/symposium2022"
+# button:
+#    enable: true
+#    label: "Discover Our Projects"
+#    link: "project"
 
 ############################# About #################################
 about:
@@ -55,52 +59,52 @@ funfacts:
   title: "Fun Facts About Us"
   description: "'A long time ago <br>  in a galaxy far far away...'"
   funfact_item:
-  
+
   # funfacts loop
   - icon : "ion-ios-checkmark-outline" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Completed Projects"
     count : "9"
-    
+
   # funfacts loop
   - icon : "ion-code-working" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Lines Of Code"
     count : "+9000"
-           
+
   # funfacts loop
   - icon : "ion-battery-charging" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Current Projects"
     count : "10"
-    
+
   # funfacts loop
   - icon : "ion-cash" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Funds Raised ($)"
     count : "6500"   
- 
+
   testimonial_slider:              
   # testimonial item loop
   - name: "Gonzalo Vidal"
     image: "images/ppictures/g-vidalsquare.jpg"
     designation: "Synthetic Biologist"
     content: "Survived a whole month just eating cereal and milk."
-              
+
   # testimonial item loop
   - name: "Carlos Castillo"
     image: "images/ppictures/chorocastillo.jpeg"
     designation: "MR physicist"
     content: "Chilean champion of Rubik´s cube speed solving in 2009"
-    
+
   # testimonial item loop
   - name: "Gabriela Vargas"
     image: "images/ppictures/Gaby%20Cropped.jpg"
     designation: "Computational Neuroscientist"
     content: "Has a dance career in Europe"
-    
+
     # testimonial item loop
   - name: "Carlos Valle"
     image: "images/ppictures/CValle%20Cropped.jpg"
     designation: "Computational Neuroscientist"
     content: "A random cat peed his computer and burned its motherboard."
-    
+
     # testimonial item loop
   - name: "Axel Sepúlveda"
     image: "images/ppictures/Axel%20Cropped.jpg"
