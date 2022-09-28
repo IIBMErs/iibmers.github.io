@@ -42,4 +42,9 @@ Greetings to all,
 Organizers of the Symposium on Advances in Biological and Medical Engineering.
 
 ---
-#### [[REGISTER HERE]](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form")
+## [[REGISTER HERE]](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form")
+---
+
+#### __Links to sponsors:__
+
+#### [ihealth](https://i-health.cl/en/ "Go to ihealth")
