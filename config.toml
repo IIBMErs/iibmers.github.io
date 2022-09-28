@@ -2,7 +2,7 @@
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 baseURL = "https://iibmers.org/"
 title = "IIBMers"
-theme = "airspace-hugo"
+theme = ["hugo-redirect", "airspace-hugo"]
 # Number of posts per page in list view
 paginate = "4"
 # Post excerpt length
@@ -60,9 +60,9 @@ email = "contact@iibmers.org"
 location = """
 Campus San Joaquín - Avda.Vicuña Mackenna 4860
 
-**IIBM**  
-Instituto de Ingeniería Biológica y Médica, 
-Macul, 
+**IIBM**
+Instituto de Ingeniería Biológica y Médica,
+Macul,
 Región Metropolitana,
 Chile.
 """
@@ -181,7 +181,7 @@ weight = 2
 
 [[languages.en.menu.main]]
 name = "Projects"
-URL = "project"
+URL = "projects"
 weight = 3
 
 [[languages.en.menu.main]]
@@ -207,7 +207,7 @@ weight = 1
 
 [[languages.en.menu.footer]]
 name = "Projects"
-URL = "project"
+URL = "projects"
 weight = 2
 
 [[languages.en.menu.footer]]
@@ -247,7 +247,7 @@ weight = 2
 
 [[languages.fr.menu.main]]
 name = "Projet"
-URL = "project"
+URL = "projects"
 weight = 3
 
 [[languages.fr.menu.main]]
@@ -288,7 +288,7 @@ weight = 1
 
 [[languages.fr.menu.footer]]
 name = "Projet"
-URL = "project"
+URL = "projects"
 weight = 2
 
 [[languages.fr.menu.footer]]
@@ -333,7 +333,7 @@ weight = 2
 
 [[languages.it.menu.main]]
 name = "Progetto"
-URL = "project"
+URL = "projects"
 weight = 3
 
 [[languages.it.menu.main]]
@@ -374,7 +374,7 @@ weight = 1
 
 [[languages.it.menu.footer]]
 name = "Progetto"
-URL = "project"
+URL = "projects"
 weight = 2
 
 [[languages.it.menu.footer]]
@@ -419,7 +419,7 @@ weight = 2
 
 [[languages.de.menu.main]]
 name = "Projekt"
-URL = "project"
+URL = "projects"
 weight = 3
 
 [[languages.de.menu.main]]
@@ -460,7 +460,7 @@ weight = 1
 
 [[languages.de.menu.footer]]
 name = "Projekt"
-URL = "project"
+URL = "projects"
 weight = 2
 
 [[languages.de.menu.footer]]

@@ -25,4 +25,4 @@ Organizers of the Symposium on Advances in Biological and Medical Engineering.
 
 ---
 
-#### [[REGISTER HERE]](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form") | [[ANNUAL SYMPOSIUM PROJECT]]({{< ref "/project/symposium2022" >}} "Go to the project's page")
+#### [[REGISTER HERE]](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form") | [[ANNUAL SYMPOSIUM PROJECT]]({{< ref "/projects/symposium2022" >}} "Go to the project's page")

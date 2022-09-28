@@ -9,18 +9,18 @@ banner:
   button:
     enable: true
     label: "Join us on October 28th in our 1st Annual PhD. Symposium"
-    link: "project/symposium2022"
+    link: "projects/symposium2022"
 # button:
 #    enable: true
 #    label: "Discover Our Projects"
-#    link: "project"
+#    link: "projects"
 
 ############################# About #################################
 about:
   enable: true
   title: "About Us"
   description: " We are students from the Institute for Biological and Medical Engineering doing fun interdisciplinary projects advancing science and engineering with impact in the society"
-  content: " We self-organized to lead and create environments that promotes synergistic interdisciplinary work, communication and friendship. We give experience working togheter to students with different background through interdisciplinary projects. The projects are Open-Source, with impact in society and aim to reduce knowledge barriers between different areas, by creating educational resources."
+  content: " We self-organized to lead and create environments that promotes synergistic interdisciplinary work, communication and friendship. We give experience working together to students with different background through interdisciplinary projects. The projects are Open-Source, with impact in society and aim to reduce knowledge barriers between different areas, by creating educational resources."
   image: "images/logo-coin.png"
 
 
@@ -29,7 +29,7 @@ portfolio:
   enable: true
   bg_image: "images/feature-bg.gif"
   title: "WE PROMOTE INTERDISCIPLINE"
-  content: "We are constantly generating new interdisciplinary projects to promote the colaboration between students with different background and looking for funding to execute them."
+  content: "We are constantly generating new interdisciplinary projects to promote the collaboration between students with different background and looking for funding to execute them."
   button:
     enable: true
     label: "Visit our GitHub"
