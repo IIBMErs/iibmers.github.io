@@ -43,11 +43,71 @@ Greetings to all,
 
 Organizers of the Symposium on Advances in Biological and Medical Engineering.
 
-![Event schedule](/images/schedule-symposium.png)
+---
+
+
+<style>
+table {
+  border-collapse: collapse;
+  color: #333333;
+}
+td, th {
+  text-align: center;
+  border: 1px solid #333333;
+  padding: 0 .2em;
+  padding: 0px 10px;
+}
+</style>
+<table>
+ <tr>
+   <th colspan="2">Timetable</th>
+ </tr>
+ <tr>
+   <td>9:30 - 10:00</td>
+   <td>Welcome</td>
+ </tr>
+ <tr>
+   <td>10:00 - 10:40</td>
+   <td>Keynote speaker</td>
+ </tr>
+ <tr>
+   <td>10:40 - 11:15</td>
+   <td>Coffee break & poster session</td>
+ </tr>
+ <tr>
+   <td>11:15 - 12:50</td>
+   <td>3 min PhD. students presentations</td>
+ </tr>
+ <tr>
+   <td>12:50 - 14:00</td>
+   <td>Lunch break</td>
+ </tr>
+ <tr>
+   <td>14:00 - 14:40</td>
+   <td>Keynote speaker</td>
+ </tr>
+ <tr>
+   <td>14:40 - 15:10</td>
+   <td>3 min PhD. students presentations</td>
+ </tr>
+ <tr>
+   <td>15:10 - 15:45</td>
+   <td>Coffee break & poster session</td>
+ </tr>
+ <tr>
+   <td>15:45 - 16:45</td>
+   <td>3 min PhD. students presentations</td>
+ </tr>
+ <tr>
+   <td>16:45 - 17:20</td>
+   <td>Final poster session & awards</td>
+ </tr>
+</table>
+
 ---
 ## [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form") (first-come, first-served)
 ---
 
 #### __Links to sponsors:__
 
-#### [ihealth](https://i-health.cl/en/ "Go to ihealth")
+#### [ihealth](https://i-health.cl/en/ "Go to ihealth") [devmech](https://adtopia.cl/portfolio/devmech/)
