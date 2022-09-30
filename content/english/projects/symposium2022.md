@@ -41,7 +41,7 @@ Greetings to all,
 
 Organizers of the Symposium on Advances in Biological and Medical Engineering.
 
-![Event schedule](images/schedule-symposium.png)
+![Event schedule](/images/schedule-symposium.png)
 ---
 ## [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form") (first-come, first-served)
 ---
