@@ -24,6 +24,8 @@ information:
     info : "20 October 2022"
   - label : "More information"
     info : "symposium@iibmers.org"
+  - label: "Starting time"
+    info: "9:30 AM (UTC-3)
 
 ---
 ---
