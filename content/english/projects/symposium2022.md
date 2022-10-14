@@ -21,7 +21,7 @@ information:
   - label: "Cost"
     info : "Free (includes certification for exhibitors and attendees)"
   - label : "Abstract submission deadline"
-    info : "15 October 2022"
+    info : "17 October 2022 (12 PM UTC-3)"
   - label : "Acceptance Notification"
     info : "20 October 2022"
   - label : "More information"
@@ -48,7 +48,7 @@ Organizers of the Symposium on Advances in Biological and Medical Engineering.
 <br>
 
 ---
-## [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form") (first-come, first-served)
+## [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form") (first-come, first-served; submission deadline extended!)
 
 __Posters:__ Dimensions to be announced.
 
