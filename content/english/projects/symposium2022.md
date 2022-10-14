@@ -50,7 +50,7 @@ Organizers of the Symposium on Advances in Biological and Medical Engineering.
 ---
 ## [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form") (first-come, first-served; submission deadline extended!)
 
-__Posters:__ Dimensions to be announced.
+__Posters:__ 900 mm x 1200 mm maximum (portrait). 
 
 __Presentations:__ 3 minutes duration.
 
