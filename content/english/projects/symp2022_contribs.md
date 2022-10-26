@@ -37,6 +37,8 @@ information:
 <br>
 
 #### __Protein engineering__
+
+
 **Dimer dissociation is the rate-limiting step of KaiB fold switching** - Ignacio Retamal (presentation & poster)
 
 Cyanobacteria harbor the simplest biological clock, composed of three proteins (KaiA, KaiB, KaiC) that constitute a phosphorylation oscillator whose periodicity is regulated by the metamorphic protein KaiB. These proteins are characterized by adopting dissimilar yet thermodynamically stable structures, each with its own function. In the case of KaiB, a structural interconversion occurs between a tetramer of asymmetric dimers, or ground-state (gsKaiB), and a thioredoxin-like monomer, or fold-switch state (fsKaiB).
@@ -72,6 +74,8 @@ diseases and for which the switch insertion point is not a trivial decision, as 
 further experimental work. Overall, our work establishes that SCHEMA-RASPP is a
 convenient strategy for engineering switches designed to control protein activity.
 
+
+<br>
 
 #### __Tissue engineering__
 
@@ -121,6 +125,8 @@ Oxygen is necessary for tissue regeneration as it plays a key role in metabolism
 Oxygen is critical for proper physiological functions including wound healing. Vascularization is compromised in full-thickness wounds and, thus, there is no proper oxygen supply from blood. Efforts have been made to treat patients with collagen scaffolds to promote wound healing. Nevertheless, oxygen availability is not optimal under these conditions. To cover this need, we have employed photosynthetic microorganisms to produce oxygen locally inside the scaffold. Here, we analyze light settings to optimize this oxygen production in terms of wavelength and intensity. Also, we developed a new oxygen levels data analysis platform to assess oxygen metabolism rapidly, reliably and user-independent. This tool is useful not only to study photosynthesis but also other metabolic parameters in biological systems such as mitochondrial respiration. Finally, this tool can be used by anyone interested in using oxygraph systems in their experimental procedures.
 
 
+<br>
+
 #### __Chemistry__
 
 **Design and obtention of asymmetric diiminoacenaphthenes as potential ligands in Copper (I) complexes applicable to LEC devices and photocatalysis** - Ignacio Erazo (poster)
@@ -129,12 +135,16 @@ In the permanent search for systems that allow the conversion of energy, either 
 
 In this sense, ligands derived from symmetric diiminoacenaphthenes have been widely used in complexes, with several synthetic and photochemical applications, since it is considered a non-innocent redox ligand due to its strong electron-withdrawing properties. However, there are few reports of asymmetric derivatives and even fewer using heterocyclic substituents such as diazaborole derivatives, which have a strong electron-donor character. In this sense, this work shows the design, synthesis, and characterization of a new family of asymmetric diazaborolyl-diiminoacenaphthene ligands, and its potential use in the formation of Copper (I) complexes with applications in LEC devices and photocatalysis.
 
+<br>
 
 #### __Green chemistry__
 
 **Bio-click chemistry: much more than play with Green Legos** - Diego Fernando Rodríguez Sánchez (poster)
 
 The fields of click chemistry and biocatalysis have rapidly grown over the last two decades. The development of robust and active biocatalysts and the widespread use of straightforward click reactions led to significant interactions between these two fields. Therefore, the name bio-click chemistry seems to be an accurate definition of chemoenzymatic reactions cooperating with click transformations. Bio-click chemistry can be understood as the approach towards molecules of high-value using a green and sustainable approach by exploiting the potential of biocatalytic enzyme activity combined with the reliable nature of click reactions. The present work summarizes the principal bio-click chemistry reactions reported over the last two decades, with a special emphasis on small molecules. Contributions to the field of bio-click chemistry are diverse, but the synthesis of chiral molecules with applications in medicinal chemistry and sustainable syntheses will be especially highlighted.
+
+
+<br>
 
 #### __Medical chemistry__
 
@@ -150,6 +160,8 @@ In this study, we took a simple perfluorocarbon and studied its structure, energ
 
 Within the endocannabinoid system (ECS) the transmembrane cannabinoid receptor type 1 (CB1) regulates a variety of physiological and pathological conditions constituting a promising therapeutic target. Various mechanisms are involved in CB1 signaling and together with ligand binding responses, the lipid composition of the surrounding bilayer can represent an additional source of protein regulation. In the light of growing evidence that relates the phytocannabinoid cannabidiol (CBD) and endogenous cholesterol (CHL) through a possible common binding site and associated metabolic pathways, CHL may be regarded as an integral part of CBD’s action. In this way, changes in membrane sterol content could be intimately related to CBD’s effects and together modulate receptor structure. This project aims to explore how membrane CHL can indirectly modulate receptor function and take part in the described allosteric effects of CBD. We propose that together with direct allosteric binding, changes in membrane CHL in the presence of CBD, can also favor an inactive-like state receptor and contribute to the reported negative modulatory effects. A molecular simulation approach combining protein modeling, molecular docking and dynamics simulations with all-atom (AA) and coarse-grained (CG) methodologies will be used to generate structural and energetic data of representative receptor systems. Exploring the membrane contribution to CBD’s effects can help to gain better understanding of its mechanisms of action and provide deeper insight into transmembrane protein modulation. Given the therapeutic potential of CB1 and the positive clinical effects shown by CBD, research on its underlying mechanism will be useful to guide medicinal chemistry efforts.
 
+
+<br>
 
 #### __Drug delivery__
 
@@ -181,6 +193,8 @@ The dissolution and absorption of lipid active pharmaceutical ingredients (API) 
 In general, low bioavailability, high side effects, and rapid clearance from the body are typical problems related to the therapeutic application of different agents. Delivery systems search to solve these problems through a noninvasive approach. Metal-organic frameworks (MOFs) are crystalline microporous characterized by presenting a net-like structure composed of a metal atom linked through organic ligands. MOFs have small sizes, high surface areas, and increased drug-loading capacity. However, the application of MOF in the liberation of the therapeutic agent presents some challenges due to the heavy metals used in their structures and difficulties in controlling drug loading and release. In this work in progress, we study the capacity of a Zr-based MOF to load and release a well-described drug such as diclofenac. We used a structural approach to understand the effect of the drug on the structure of the MOF. We tried to elucidate how we can improve the system's stability,
 loading, and release by enhancing the system's design.
 
+
+<br>
 
 #### __Biomedical imaging__
 
@@ -234,6 +248,8 @@ Widefield all-optical neurophysiology uses optical stimulation and recording of 
 
 For many years optical microscopy has served humankind to study the microscopic world, nevertheless, it has a limit in what we can observe, that is affected by the famous Abbe limit of diffraction (to approximately 200 nm in xy-dimensions and 500 nm along the optical axis.). This limit poses a problem when trying to image subcellular structures. To overcome this obstacle, in the past decade, various methods of superresolution microscopy have been developed  that completely shattered the diffraction limit of image resolution. Here we are presenting a method based on  interference contrast, which is known as scanning angle interference microscopy (SAIM). This technique  can be easily optimized on a TIRF microscope and allows for localization with nanometer precision along the z-axis. This allows to extract information about the position and orientation of proteins in the z axis, therefore, it is a convenient and very useful tool to image the vertical positions of cellular structures, with a minimal sophistication and to image protein dynamics in living cells.
 
+
+<br>
 
 #### __Mechanobiology__
 
@@ -299,7 +315,7 @@ Autophagy is a form of cellular housekeeping for degradation of proteins, organe
 With this investigation we want to understand the effect of changes in rigidity of the extracellular matrix on the autophagic flux. By using epithelial cells (MDCK) seeded on engineered biomimetic substrates with different rigidities, we are evaluating the appearance of LC3 and p62 carrying vesicles, and the organization of the actin cytoskeleton in response to serum starvation. This will allow us to analyze the differential activation of autophagy in response to mechanical stress.
 
 
-
+<br>
 
 #### __Biofilm mechanobiology__
 
@@ -307,6 +323,8 @@ With this investigation we want to understand the effect of changes in rigidity 
 
 La dentina, el tejido más abundante del diente humano, se ubica en una capa inferior al esmalte y cubre el tejido pulpar. En su estructura presenta túbulos que rondan los 4 um de diámetro de separación variable, que están directamente asociados a su homeostasis y enfermedad. Por ello, es importante buscar nuevos modelos in-vitro de estudio de estas condiciones dentro del laboratorio. La microfabricación es el proceso utilizado para fabricar objetos con dimensiones nanométricas para el estudio de sistemas biológicos y recrear superficies, sin embargo, en la literatura existen escasos reportes del uso de estas técnicas para el diseño de dentina biomimética. El objetivo de este estudio fue diseñar y generar una dentina biomimética in-vitro a través del método de fabricación con resina. Se generó un diseño de microestructuras mediante el software Klayout, con el cuál se confeccionó una superficie con micropilares de resina por medio de la técnica de fotolitografía. Las medidas de los pilares tuvieron un diámetro de 5 um con separación de 6 um, 8 um y 10 um entre ellos. Posteriormente, con el patrón obtenido del wafer, se generó un patrón negativo de polidimetilsiloxano (PDMS), donde se le realizó una cubierta de colágeno tipo I. Las superficies fueron visualizadas mediante microscopía óptica y electrónica de barrido. Finalmente, se logró confeccionar un wafer con las dimensiones requeridas, con el cuál se generaron superficies de PDMS y colágeno tipo I, observadas con microscopía óptica y electrónica. Se espera que estas superficies sirvan de sustrato para futuros experimentos.
 
+
+<br>
 
 #### __Microbiology__
 
@@ -364,6 +382,9 @@ Multidrug-resistant (MDR) Salmonella Infantis (SI) is an emergent worldwide path
 
 The excessive and inappropriate use of antibiotics has contributed to the generation of antimicrobial resistance and the dissemination of resistant microorganisms. This has resulted in natural agents such as wild animals becoming reservoirs of resistant bacteria and resistance genes. The objective of this study is to isolate enterobacteria resistant to third generation cephalosporins (C3G) in rectal swab samples of Rattus rattus from rural areas in the Andean region of La Araucanía. Samples were collected in July 2022, three quadrants with an average density of 11 dwellings/km2 were sampled in a rural sector of Pucón in search for Rattus rattus. A rectal swab was collected from each animal and streaked on MacConkey agar supplemented with 2 μg/ml ceftazidime (CAZ). One bacterial colony was isolated for each morphotype detected and the susceptibility profile to a panel of antibiotics was characterized using the disk diffusion method. A total of 20 rectal swabs were collected, obtaining a positivity of 30% (6/20) for CAZ-resistant Enterobacteriaceae, from which 13 bacterial colonies were isolated. Of the total isolates, 100% (13/13) corresponded to lactose-negative enterobacteria resistant to only one family of antibiotics (beta-lactams). In conclusion, wild commensal rodents from rural areas with low anthropogenic activity present resistance to C3G, which could act as vectors for the spread of resistant bacteria of clinical importance to areas far from urban and agricultural-livestock centers.
 
+
+<br>
+
 #### __Physiology__
 
 **Gene silencing of UPR mt as an intervention to mitochondrial morphology and muscle cell senescence** - Andrea P. Marimán
@@ -373,6 +394,9 @@ Natural adaptative responses to this phenomenon, include activation of the Unfol
 Methods. Cell cultures of myoblast-derived cell line C2C12 were genetically silenced using siRNA to ATF5 or Mfn2 genes. Models of mitochondrial stressed-induced senescence were later applied with sublethal concentrations of H2O2 or doxorubicin. Comparisons were based on SA-ß galactosidase assay and mitochondrial morphology through Mitotracker Green™ staining. Microscopy was captured in 10X and 60X, respectively.
 Results and Conclusions. Modulation of UPRmt through ATF5-/- C2C12 cells show increased mitochondrial fusion, but little changes to SA-ß galactosidase expression as opposed to Mfn2-/- cells, which featured an increase in senescent cells.
 Intervention of UPRmt or mitochondrial fusion through through ATF5-/- or Mfn2-/-  C2C12 cells changed the mitochondrial morphology and positive senescent cell population in satellite cell senescent models. More research is needed to clearly link UPRmt, mitochondrial morphology and senescence in muscle cells.
+
+
+<br>
 
 #### __Biomechanics and Quantitative Physiology__
 
@@ -442,6 +466,8 @@ During the last few years, the rate of aging has increased worldwide. In dentist
  It is now known that one of the changes generated with aging is the glycation of collagen that generates advanced glycation products (AGEs) such as methylglyoxal (MGO). The aim of this work is to know the adhesion dynamics of Streptococcus mutans and Streptococcus Sanguinis to type I collagen in the presence and absence of MGO-derived AGEs.
 
 
+<br>
+
 #### __Bioinformatics__
 
 **A novel in silico approach to design inhibitory peptides targeting the bacterial enzyme choline trimethylamine-lyase** - Joaquín Gutierrez (poster)
@@ -462,6 +488,8 @@ Of the ligands identified, a group of stilbenes derived from resveratrol inhibit
 Identifying drug–target interactions (DTI) is a crucial step in discovering novel drugs and for drug repositioning. Network-based methods have shown great potential thanks to the straightforward integration of information from different sources and the possibility of extracting novel information from the graph topology. However, despite recent advances, there is still an urgent need for efficient and robust prediction methods. We present SimSpread, a novel framework that combines network-based inference with similarity measure information for the prediction of DTIs. This framework employs a tri-layered prediction network constructed from protein–ligand interaction annotations and ligand similarity on which a resource-spreading algorithm predicts potential biological targets for both known or failed drugs and novel compounds. Here we present two variants in which resources are either diffused within a tripartite drug–drug–target network or within a pocket-pocket-target network. In the former case, we describe small molecules as vectors of similarity indices to other compounds, thereby providing a flexible means to explore diverse molecular representations. While in the latter case, resources are spread between structurally similar ligand binding sites. We show that our proposed method achieved high predictive performance through multiple cross-validation and time-split validation procedures over a series of datasets and be flexible enough to accept different information sources depending on the type of problem the researcher is trying to tackle. Our results suggest robust and balanced performance, and our methods may be useful for predicting drug targets, virtual screening, and drug repositioning.
 
 
+<br>
+
 #### __Open low-cost synthetic biology for diagnostics__
 
 **Public domain enzymes for diagnostic, research & education** - Felipe Navarro & Daniel Nuñez (poster)
@@ -475,6 +503,9 @@ Cell-Free systems take advantage of the transcription and translation machinery 
 However, cost is an important limitation of cell-free technology. Commercial alternatives can reach up to 2500 USD for 100 reactions, being barely accessible for countries in the Global South and Latin America. In response to this challenge, our lab has implemented an in-house production process which cuts the cost by two orders of magnitude. This work permits the prototyping of low cost biosensors for field applications. We have applied this technology to toehold-based genetic sensors, which consist of RNA sensors able to target and detect Potato Virus Y and SARS-Cov-2 specific regions. They can be activated in freeze-dried cell-free systems upon rehydration with a sample of interest, triggering a colorimetric response, which shows their potential for their decentralized use.   
 
 We aim to improve the reproducibility of our locally-produced cell-free systems, enabling access to other research groups that join the cell-free community. This would broaden the use of this technology and open the door to open-source hardware projects for cell-free applications.
+
+
+<br>
 
 #### __Collective behavior of synthetic systems__
 
