@@ -58,18 +58,18 @@ __Presentations:__ 3 minutes duration.
 
 #### __Timetable:__
 
-![timetable](images/timetable.jpg)
+![timetable](/images/timetable.jpg)
 
 
 <br>
 
 #### __Program:__
 
-![talk session 1](images/session1.jpg)
+![talk session 1](/images/session1.jpg)
 
-![talk session 2](images/session2.jpg)
+![talk session 2](/images/session2.jpg)
 
-![talk session 3](images/session3.jpg)
+![talk session 3](/images/session3.jpg)
 
 <br>
 
