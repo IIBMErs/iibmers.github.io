@@ -26,7 +26,7 @@ Organizers of the Symposium on Advances in Biological and Medical Engineering.
 <br>
 
 ---
-## [[REGISTER HERE] (submission deadline extended to October 17 @ 12 PM UTC-3)](https://docs.google.com/forms/d/e/1FAIpQLScWd99QfeN7Bclo84diGkjwagbFvLPgigjAqepPX7T96gCUbw/viewform "Go to registration form") &nbsp; [[ANNUAL SYMPOSIUM PROJECT]]({{< ref "/projects/symposium2022" >}} "Go to the project's page")
+## REGISTRATION IS NOW CLOSED &nbsp; [[ANNUAL SYMPOSIUM PROJECT]]({{< ref "/projects/symposium2022" >}} "Go to the project's page")
 ---
 
 <br>
