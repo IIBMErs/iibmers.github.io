@@ -6,8 +6,6 @@ image : "images/Flyer_IBM.jpg"
 bg_image: "images/Nebula%20(1).jpg"
 category: "Community"
 information:
-  - label: "Program"
-    info: "To be announced"
   - label: "International speaker"
     info: "Shinji Deguchi, Osaka University, Japan."
   - label: "In-house speaker"
