@@ -53,60 +53,36 @@ __Posters:__ 900 mm x 1200 mm maximum (portrait).
 __Presentations:__ 3 minutes duration (+ 2 minutes of questions).
 
 __Check for your certificate here:__
-
+https://docs.google.com/spreadsheets/d/1WMkQCLPox2BG6o7Hk-KmTh_tmFb1Bxeuzo499E204rg/gviz/tq?tq=SELECT%20*%20where%20C%3Dgsahonero%40uc.cl&gid=Asistentes
 <script>
-  function CreateUrl(key, gql, sheet) {
-			var gq = 'SELECT '+ gql;
-			var encodedgg = encodeURIComponent(gq);
-			var url = 'https://docs.google.com/spreadsheets/d/' + key + '/gviz/tq?tq=' + encodedgg + '&gid=' + sheet;
-			return url;
-		}
-  function Request(url, responseFunction) {
-			var xmlhttp = new XMLHttpRequest();
-			xmlhttp.onreadystatechange = function() {
-				if (this.readyState == 4 && this.status == 200) {
-					var response = this.responseText.substring(this.responseText.IndexOf("(")+1, this.responseText.lastIndexOf(")"));
-					var responseJSON = JSON.parse(response);
-					responseFunction(responseJSON);
-				}
-			};
-			xmlhttp.open("GET", url, true);
-			xmlhttp.send();
-		}
-  function preview(elm, url) {
-    fetch(url)
-      .then(data => data.text())
-      .then(function(response) {
-        var responseText = response.substring(response.indexOf("(") + 1, response.lastIndexOf(")"));
-        var response = JSON.parse(responseText);
-        var value = response['table']['rows'][0]['c'][0]['v'];
-        elm.innerHTML += " " + value;
-              }
-          )
-  } 
-  function query(){
-    var url = CreateUrl(gsKey, gql, gsSheet);
-		var previewElement = document.getElementById('preview');
-		preview(previewElement, url);
+  function request(){
+    var v = document.getElementById('email').value;
+    url = "https://www.imt.ucb.edu.bo/cidimec/people/sahonero/uc/certificates.php?email=" + v;
+    var elm = document.getElementById("result");
+    query(elm, url);
   }
-  $(document).ready(function() {
-    $('form').on('submit', function(e){
-        e.preventDefault();
-        url = "https://www.imt.ucb.edu.bo/cidimec/people/sahonero/api/uc/certificates.php?"+"email="+$("#email").val();
-        Request(url, function(result){
-          console.log(result);
-        })
-      });
-  });
+  function query(elm, url){
+  fetch(url)
+          .then(data => data.text())
+          .then(function(response) {
+            console.log(response)
+              var responseText = response.substring(response.indexOf("(") + 1, response.lastIndexOf(")"));
+              var response = JSON.parse(responseText);
+              var value = response['table']['rows'][0]['c'][0]['v'];
+              elm.innerHTML += " " + value;
+              window.location.href = value;
+          })
+ }   
 </script>
 
-<form id="certificate-engine">
+<div id="certificate-engine">
   <div class="form-group">
     <label for="email">Email address (the one with which you registered)</label>
     <input type="text" class="form-control" id="email" name="email" placeholder="Insert your mail address here">
   </div>
-  <button type="submit" class="btn btn-default">Look for my certificate!</button>
-</form>
+  <a href="#" onclick="request" class="btn btn-default">Look for my certificate!</a>
+  <p id="result"></p>
+</div>
 
 
 
