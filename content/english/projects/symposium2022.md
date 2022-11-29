@@ -62,13 +62,14 @@ __Check for your certificate here:__
     query(elm, url);
   }
   function query(elm, url){
-  fetch(url, { mode: 'no-cors'})
+  fetch(url)
           .then(data => data.text())
           .then(function(response) {
+              console.log(response);
               var responseText = response.substring(response.indexOf("(") + 1, response.lastIndexOf(")"));
               var response = JSON.parse(responseText);
               var value = response['table']['rows'][0]['c'][0]['v'];
-              elm.href = value;
+              elm.innerHTML = "<p>If you weren't redirected, please, <a href='"+value+"'>click here</a></p>";
               window.location.href = value;
               console.log(value);
           })
@@ -81,8 +82,8 @@ __Check for your certificate here:__
     <input type="text" class="form-control" id="email" name="email" placeholder="Insert your mail address here">
   </div>
   <a href="#" onclick="return request()" class="btn btn-default">Look for my certificate!</a>
-  <div>
-  <p >If you weren't redirected, please, click here: <a id="result"></a></p>
+  <div id="result">
+  
   </div>
 </div>
 
