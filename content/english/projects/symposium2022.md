@@ -53,23 +53,23 @@ __Posters:__ 900 mm x 1200 mm maximum (portrait).
 __Presentations:__ 3 minutes duration (+ 2 minutes of questions).
 
 __Check for your certificate here:__
-https://docs.google.com/spreadsheets/d/1WMkQCLPox2BG6o7Hk-KmTh_tmFb1Bxeuzo499E204rg/gviz/tq?tq=SELECT%20*%20where%20C%3Dgsahonero%40uc.cl&gid=Asistentes
+
 <script>
   function request(){
     var v = document.getElementById('email').value;
-    url = "https://www.imt.ucb.edu.bo/cidimec/people/sahonero/uc/certificates.php?email=" + v;
+    url = "https://www.imt.ucb.edu.bo/cidimec/people/sahonero/api/uc/certificates.php?email=" + v;
     var elm = document.getElementById("result");
     query(elm, url);
   }
   function query(elm, url){
-  fetch(url)
+  fetch(url, { mode: 'no-cors'})
           .then(data => data.text())
           .then(function(response) {
             console.log(response)
               var responseText = response.substring(response.indexOf("(") + 1, response.lastIndexOf(")"));
               var response = JSON.parse(responseText);
               var value = response['table']['rows'][0]['c'][0]['v'];
-              elm.innerHTML += " " + value;
+              elm.href = value;
               window.location.href = value;
           })
  }   
@@ -81,7 +81,9 @@ https://docs.google.com/spreadsheets/d/1WMkQCLPox2BG6o7Hk-KmTh_tmFb1Bxeuzo499E20
     <input type="text" class="form-control" id="email" name="email" placeholder="Insert your mail address here">
   </div>
   <a href="#" onclick="request" class="btn btn-default">Look for my certificate!</a>
-  <p id="result"></p>
+  <div>
+  <p >If you weren't redirected, please, click here: <a id="result"></a></p>
+  </div>
 </div>
 
 
