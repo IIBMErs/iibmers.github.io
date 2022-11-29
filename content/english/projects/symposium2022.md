@@ -46,13 +46,7 @@ Organizers of the Symposium on Advances in Biological and Medical Engineering.
 <br>
 
 ---
-## REGISTRATION IS NOW CLOSED!
-
-__Posters:__ 900 mm x 1200 mm maximum (portrait).
-
-__Presentations:__ 3 minutes duration (+ 2 minutes of questions).
-
-__Check for your certificate here:__
+## Check for your certificate here
 
 <script>
   function request(){
@@ -68,7 +62,7 @@ __Check for your certificate here:__
               var responseText = response.substring(response.indexOf("(") + 1, response.lastIndexOf(")"));
               var response = JSON.parse(responseText);
               var value = response['table']['rows'][0]['c'][0]['v'];
-              elm.innerHTML = "<p>If you weren't redirected, please, <a href='"+value+"'>click here</a></p>";
+              elm.innerHTML = "<p>If you weren't redirected, please, <a href='"+ value + "'>click here</a></p>";
               window.location.href = value;
               console.log(value);
           })
@@ -86,7 +80,12 @@ __Check for your certificate here:__
   </div>
 </div>
 
+---
+## REGISTRATION IS NOW CLOSED!
 
+__Posters:__ 900 mm x 1200 mm maximum (portrait).
+
+__Presentations:__ 3 minutes duration (+ 2 minutes of questions).
 
 ---
 
