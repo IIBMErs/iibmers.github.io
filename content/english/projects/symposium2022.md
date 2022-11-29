@@ -65,7 +65,6 @@ __Check for your certificate here:__
   fetch(url)
           .then(data => data.text())
           .then(function(response) {
-              console.log(response);
               var responseText = response.substring(response.indexOf("(") + 1, response.lastIndexOf(")"));
               var response = JSON.parse(responseText);
               var value = response['table']['rows'][0]['c'][0]['v'];
@@ -81,7 +80,7 @@ __Check for your certificate here:__
     <label for="email">Email address (the one with which you registered)</label>
     <input type="text" class="form-control" id="email" name="email" placeholder="Insert your mail address here">
   </div>
-  <a href="#" onclick="return request()" class="btn btn-default">Look for my certificate!</a>
+  <a href="javascript:request();" class="btn btn-default">Look for my certificate!</a>
   <div id="result">
   
   </div>
