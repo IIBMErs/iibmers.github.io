@@ -8,8 +8,8 @@ banner:
   content: "Self-organized Biological and Medical Engineering students"
   button:
     enable: true
-    label: "Join us on October 28th in our 1st Annual PhD. Symposium"
-    link: "projects/symposium2022"
+    label: "Join us on October 6th in our 2nd Annual PhD. Symposium"
+    link: "projects/symposium2023"
 # button:
 #    enable: true
 #    label: "Discover Our Projects"
