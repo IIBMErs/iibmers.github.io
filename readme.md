@@ -1,13 +1,19 @@
 
 # About
 
-Repositorio source de la web https://iibmers.org/ (el dominio expira el DD/MM/AAAA, recordar renovarlo)
-Utiliza el tema de Hugo [airspace-hugo](https://github.com/themefisher/airspace-hugo)
+Repositorio source de la web de iibmers, el grupo de postgrado del IIBM UC
+
+Dominio original: https://iibmers.org/ (el dominio expiró el DD/MM/AAAA, recordar renovarlo)
+
+Dominio actual: https://iibmers.github.io/
 
 # Como contribuir a la web
 Hacer fork de este repositorio y hacer pull request cuando hayas completado los cambios (o edita directamente si eres valiente)
 
-## Documentacion del tema [airspace](https://docs.gethugothemes.com/airspace/)
+## Documentacion 
+
+- Utiliza el tema de Hugo [airspace-hugo](https://github.com/themefisher/airspace-hugo)
+- Docs del tema [airspace](https://docs.gethugothemes.com/airspace/)
 
 # DevDocs
 
