@@ -1,6 +1,6 @@
 ################################# Basic configuration #########################
 # Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-baseURL = "https://iibmers.org/"
+baseURL = "https://iibmers.github.io/"
 title = "IIBMers"
 theme = ["hugo-redirect", "airspace-hugo"]
 # Number of posts per page in list view
@@ -55,8 +55,8 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "+56 986016091"
-email = "contact@iibmers.org"
+phone = "+56 xxxxxx"
+email = "Instagram: @iibmers"
 location = """
 Campus San Joaquín - Avda.Vicuña Mackenna 4860
 
@@ -166,7 +166,7 @@ languageName = "English"
 languageCode = "en-US"
 contentDir = "content/english"
 weight = 1
-copyright = "Copyright &copy; 2021 [IIBMers github](https://github.com/IIBMErs). All Rights Reserved."
+copyright = "Copyright &copy; 2025 [IIBMers github](https://github.com/IIBMErs). All Rights Reserved."
 
 # Main menu
 [[languages.en.menu.main]]
