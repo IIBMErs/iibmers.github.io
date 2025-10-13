@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/Nebula (1).jpg"
+  bg_image: "images/Nebula.jpg"
   bg_overlay: true
   title: "IIBMErs"
   content: "Self-organized Biological and Medical Engineering students"
@@ -21,13 +21,13 @@ about:
   title: "About Us"
   description: " We are students from the Institute for Biological and Medical Engineering doing fun interdisciplinary projects advancing science and engineering with impact in the society"
   content: " We self-organized to lead and create environments that promotes synergistic interdisciplinary work, communication and friendship. We give experience working together to students with different background through interdisciplinary projects. The projects are Open-Source, with impact in society and aim to reduce knowledge barriers between different areas, by creating educational resources."
-  image: "images/logo-coin.png"
+  image: "images/logo-coin-web.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg.gif"
+  bg_image: "images/feature-bg-web.gif"
   title: "WE PROMOTE INTERDISCIPLINE"
   content: "We are constantly generating new interdisciplinary projects to promote the collaboration between students with different background and looking for funding to execute them."
   button:

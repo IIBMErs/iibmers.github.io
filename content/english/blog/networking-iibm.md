@@ -3,7 +3,7 @@ title: "1st IIBM Networking 2020"
 date: 2020-09-24T11:07:10+06:00
 author: IIBMers
 image : "images/blog/blog-post-5.jpg"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg-web.jpg"
 categories: ["Artificial Intelligence"]
 tags: ["Advice","AI"]
 description: "this is meta description"

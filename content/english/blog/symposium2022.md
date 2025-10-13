@@ -3,7 +3,7 @@ title: "1st Annual PhD. Symposium"
 date: "2022-09-26"
 author: "PhD. community @ IIBM"
 image : "images/Flyer_IBM.jpg"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg-web.jpg"
 categories: ["Events"]
 tags: ["Community", "Technology"]
 description: "Join us on October 28th in our 1st Annual PhD. Symposium: Advances in Biological and Medical Engineering"

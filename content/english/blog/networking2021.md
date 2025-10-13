@@ -3,7 +3,7 @@ title: "IIBM Networking 2021"
 date: 2021-12-05T11:07:10+06:00
 author: IIBMers
 image : "images/IIBM%20Networking%202021.jpeg"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg-web.jpg"
 categories: ["Events"]
 tags: ["Community","Technology"]
 description: "This is the infromation of the networking event organized by the IIBM postgraduate students (IIBMers). This event will be held on the 21st of December 2021."
