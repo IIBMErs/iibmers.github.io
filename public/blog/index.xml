@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News on Airspace | Creative Agency Hugo Template</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Latest News on Airspace | Creative Agency Hugo Template</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Sep 2022 00:00:00 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1st Annual PhD. Symposium</title>
+      <link>//localhost:1313/blog/symposium2022/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 -0400</pubDate>
+      <guid>//localhost:1313/blog/symposium2022/</guid>
+      <description>&lt;p&gt;We are glad to invite you to our first &lt;em&gt;Advances in Biological and Medical Engineering&lt;/em&gt;&amp;rsquo;s annual symposium. Organized by the community of the Institute of Biological and Medical Engineering (IIBM), this event aims to showcase international interdisciplinary research and development ongoing at the IIBM for the scientific community at all levels: students, professors, and all people interested in this field.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IIBM Networking 2021</title>
+      <link>//localhost:1313/blog/networking2021/</link>
+      <pubDate>Sun, 05 Dec 2021 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/networking2021/</guid>
+      <description>&lt;p&gt;The &amp;ldquo;IIBM Networking 2021&amp;rdquo; is an instance to know each others research and increase interdisciplinary colaborations. Will be held on December 21th virtually.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Art Digital Life (ADL) 2021</title>
+      <link>//localhost:1313/blog/adl/</link>
+      <pubDate>Fri, 03 Dec 2021 18:00:00 +0600</pubDate>
+      <guid>//localhost:1313/blog/adl/</guid>
+      <description>&lt;p&gt;Art Digital Life (ADL) present to the public a series of art/science pieces in which there is no boundary between them. Art influxes science and science produces beautiful artworks. People may see arts and sciences as different things, even oposites. But the truth is that both are just what people do for fun, things that humans enjoy. We are truly passionate about science and engineering, and we want to express that to the people through art. The event showed a serie of stunning visualizations of algorithms and techniques that we use in research, exploring through different approaches how biological systems works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Culturizate Biomed</title>
+      <link>//localhost:1313/blog/culturizate-biomed-activities/</link>
+      <pubDate>Wed, 24 Nov 2021 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/culturizate-biomed-activities/</guid>
+      <description>&lt;p&gt;Culturizate Biomed activities have started, follow the link to &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdlw9VOfo7MQ7IRP3yeN1W198qGZJ2JmcZXEr-Vti5cs4QNyQ/viewform&#34;&gt;register&lt;/a&gt;. &lt;/p&gt;&lt;/p&gt;&#xA;&lt;p&gt;Details about the activities:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects 2021</title>
+      <link>//localhost:1313/blog/projects-2021/</link>
+      <pubDate>Wed, 24 Nov 2021 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/projects-2021/</guid>
+      <description>&lt;p&gt;Since 2019, we have been working different projects and ideas, here is a list and description (pending) of each one&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Back to the lab</title>
+      <link>//localhost:1313/blog/back-to-lab-24-nov/</link>
+      <pubDate>Tue, 23 Nov 2021 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/back-to-lab-24-nov/</guid>
+      <description>&lt;p&gt;During 2020 and 2021, the pandemic forced to work remotely from home in our projects and research, we adapted our regular meetings to be online. Lately, the university has allowed to enter the labs, so we started to assist and meet personally. With the funds we obtained this 2021 we have developed projects and bought some maker equipment like 3D printers (FMD and SLA), which we moved recently to the lab.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media coverage of projects 2021</title>
+      <link>//localhost:1313/blog/media_coverage_2021/</link>
+      <pubDate>Sat, 20 Nov 2021 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/media_coverage_2021/</guid>
+      <description>&lt;p&gt;During 2021, we have been working remotely in different projects, we obtained funding from DAE UC and Artificia la UC&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Pretty-print dates</title>
+      <link>//localhost:1313/blog/date-i18n/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      <guid>//localhost:1313/blog/date-i18n/</guid>
+      <description>&lt;p&gt;To write out an &lt;a href=&#34;https://en.wikipedia.org/wiki/ISO_8601&#34;&gt;ISO 8601&lt;/a&gt; timestamp in the current language, you can use the &lt;code&gt;date_l10n&lt;/code&gt; shortcode:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1st IIBM Networking 2020</title>
+      <link>//localhost:1313/blog/networking-iibm/</link>
+      <pubDate>Thu, 24 Sep 2020 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/networking-iibm/</guid>
+      <description>&lt;p&gt;See transmission: &lt;/p&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/KxCcJ1k_YhU&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>//localhost:1313/blog/blog-post-1/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/blog-post-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores&#xA;vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem&#xA;ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis&#xA;a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>//localhost:1313/blog/blog-post-2/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/blog-post-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores&#xA;vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem&#xA;ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis&#xA;a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>//localhost:1313/blog/blog-post-3/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/blog-post-3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores&#xA;vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem&#xA;ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis&#xA;a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>//localhost:1313/blog/blog-post-4/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/blog-post-4/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores&#xA;vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem&#xA;ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis&#xA;a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>//localhost:1313/blog/blog-post-5/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/blog-post-5/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores&#xA;vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem&#xA;ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis&#xA;a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Wear Bright Shoes</title>
+      <link>//localhost:1313/blog/blog-post-6/</link>
+      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/blog-post-6/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores&#xA;vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem&#xA;ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis&#xA;a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Latest News</title>
+      <link>//localhost:1313/blog/_index-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/_index-2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

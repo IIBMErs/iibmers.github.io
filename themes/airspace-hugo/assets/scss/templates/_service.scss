@@ -2,17 +2,23 @@
   text-align: center;
   padding: 90px 0;
 
+  @include tablet {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
   .service-item {
     padding-bottom: 30px;
 
     i {
-      font-size: 60px;
-      color: $primary-color;
+      font-size: 50px;
+      color: $color-primary;
     }
 
     h4 {
       padding-top: 15px;
       margin: 0;
+      margin-top: 10px;
       font-weight: 500;
       text-transform: uppercase;
     }
@@ -26,7 +32,7 @@
 
 .dark-service {
   .title {
-    color: $light;
+    color: $white;
   }
 
   .service-item {
@@ -34,14 +40,16 @@
     text-align: center;
 
     i {
-      font-size: 60px;
-      color: $light;
+      color: $white;
+      font-size: 40px;
+      margin-bottom: 10px;
     }
 
     h4 {
-      color: $light;
+      color: $white;
       padding-top: 15px;
       margin: 0;
+      margin-top: 10px;
       font-weight: 500;
       text-transform: uppercase;
     }
@@ -72,7 +80,7 @@
     }
 
     p {
-      color: $light;
+      color: $white;
     }
   }
 }
@@ -84,6 +92,6 @@
   .block {
     padding: 30px;
     margin-bottom: 20px;
-    background: $light;
+    background: $white;
   }
 }

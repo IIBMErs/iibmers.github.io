@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funds on Airspace | Creative Agency Hugo Template</title>
+    <link>//localhost:1313/categories/funds/</link>
+    <description>Recent content in Funds on Airspace | Creative Agency Hugo Template</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 03 Dec 2021 18:00:00 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/funds/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Digital Life (ADL) 2021</title>
+      <link>//localhost:1313/blog/adl/</link>
+      <pubDate>Fri, 03 Dec 2021 18:00:00 +0600</pubDate>
+      <guid>//localhost:1313/blog/adl/</guid>
+      <description>&lt;p&gt;Art Digital Life (ADL) present to the public a series of art/science pieces in which there is no boundary between them. Art influxes science and science produces beautiful artworks. People may see arts and sciences as different things, even oposites. But the truth is that both are just what people do for fun, things that humans enjoy. We are truly passionate about science and engineering, and we want to express that to the people through art. The event showed a serie of stunning visualizations of algorithms and techniques that we use in research, exploring through different approaches how biological systems works.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Media coverage of projects 2021</title>
+      <link>//localhost:1313/blog/media_coverage_2021/</link>
+      <pubDate>Sat, 20 Nov 2021 11:07:10 +0600</pubDate>
+      <guid>//localhost:1313/blog/media_coverage_2021/</guid>
+      <description>&lt;p&gt;During 2021, we have been working remotely in different projects, we obtained funding from DAE UC and Artificia la UC&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
