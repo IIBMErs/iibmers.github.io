@@ -3,7 +3,7 @@ title: "2nd Annual IIBM PhD. Symposium"
 description: "Join us on October 6th in our 2nd Annual PhD. Symposium: Advances in Biological and Medical Engineering"
 draft: false
 image : "images/Flyer_IIBM 2023.jpg"
-bg_image: "images/Nebula%20(1).jpg"
+bg_image: "images/Nebula-web.jpg"
 category: "Community"
 information:
   - label: "International speaker"

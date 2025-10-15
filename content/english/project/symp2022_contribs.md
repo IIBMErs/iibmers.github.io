@@ -3,7 +3,7 @@ title: "1st Annual IIBM PhD. Symposium"
 description: "Join us on October 28th in our 1st Annual PhD. Symposium: Advances in Biological and Medical Engineering"
 draft: false
 image : "images/Flyer_IBM.jpg"
-bg_image: "images/Nebula%20(1).jpg"
+bg_image: "images/Nebula-web.jpg"
 category: "Community"
 information:
   - label: "International speaker"

@@ -3,7 +3,7 @@ title: "Optimiza tu tesis"
 description: "Short Description"
 draft: true 
 image : "images/portfolio/project-placeholder.png"
-bg_image: "images/Nebula%20(1).jpg"
+bg_image: "images/Nebula-web.jpg"
 category: "Category"
 information:
   - label : "What We Do"

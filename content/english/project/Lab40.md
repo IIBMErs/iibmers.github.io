@@ -3,7 +3,7 @@ title: "Lab 4.0"
 description: "Automatization of lab equipment with iot technology"
 draft: false
 image : "images/portfolio/project-placeholder.png"
-bg_image: "images/Nebula%20(1).jpg"
+bg_image: "images/Nebula-web.jpg"
 category: "Internet of Things"
 information:
   - label : "What We Did"

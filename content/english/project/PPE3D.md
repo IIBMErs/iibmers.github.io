@@ -3,7 +3,7 @@ title: "PPE3D"
 description: "Personal protective elements 3D printed"
 draft: false
 image : "images/portfolio/PPE3D.jpg"
-bg_image: "images/Nebula%20(1).jpg"
+bg_image: "images/Nebula-web.jpg"
 category: "Open-Hardware"
 information:
   - label : "What We Do"

@@ -27,7 +27,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/feature-bg-web.gif"
+  bg_image: "images/feature-bg.gif"
   title: "WE PROMOTE INTERDISCIPLINE"
   content: "We are constantly generating new interdisciplinary projects to promote the collaboration between students with different background and looking for funding to execute them."
   button:
@@ -108,7 +108,7 @@ funfacts:
     # testimonial item loop
   - name: "Axel Sepúlveda"
     image: "images/ppictures/Axel%20Cropped.jpg"
-    designation: "Electric engineer"
+    designation: "Electric Engineer"
     content: "Solar car racing pilot. "
 
 ---

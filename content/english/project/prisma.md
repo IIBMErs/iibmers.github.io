@@ -3,7 +3,7 @@ title: "Prisma"
 description: "Art & science exposition"
 draft: true 
 image : "images/portfolio/project-placeholder.png"
-bg_image: "images/Nebula%20(1).jpg"
+bg_image: "images/Nebula-web.jpg"
 category: "art"
 information:
   - label : "What We Do"
