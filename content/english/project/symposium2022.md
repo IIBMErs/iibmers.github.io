@@ -374,7 +374,7 @@ Recent progress in understanding the essential roles of mechanical forces in reg
 
 <br>
 
-#### [__Check the list of contributors and their abstracts__]({{< ref "/projects/symp2022_contribs" >}} "Go look the contributions")
+#### [__Check the list of contributors and their abstracts__]({{< ref "/project/symp2022_contribs" >}} "Go look the contributions")
 
 ---
 #### __Links to sponsors:__

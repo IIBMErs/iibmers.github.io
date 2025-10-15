@@ -543,7 +543,7 @@ The spontaneous organization and coordination that arises from the interaction o
 </details>
 
 ---
-#### [Go back to the symposium's webpage]({{< ref "/projects/symposium2022" >}} "Go to the symposium's page")
+#### [Go back to the symposium's webpage]({{< ref "/project/symposium2022" >}} "Go to the symposium's page")
 
 ---
 #### __Links to sponsors:__
