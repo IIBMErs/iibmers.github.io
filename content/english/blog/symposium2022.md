@@ -26,7 +26,7 @@ Organizers of the Symposium on Advances in Biological and Medical Engineering.
 <br>
 
 ---
-## REGISTRATION IS NOW CLOSED &nbsp; [[ANNUAL SYMPOSIUM PROJECT]]({{< ref "/projects/symposium2022" >}} "Go to the project's page")
+## REGISTRATION IS NOW CLOSED &nbsp; [[ANNUAL SYMPOSIUM PROJECT]]({{< ref "/project/symposium2022" >}} "Go to the project's page")
 ---
 
 <br>
