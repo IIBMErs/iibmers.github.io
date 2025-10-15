@@ -2,31 +2,33 @@
 # favicon
 favicon = "images/favicon.png"
 # logo
-logo = "images/logo.png"
+logo = "images/logo.gif"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "150px"
 # logo text will only show when logo is missing.
-logo_text = "Airspace"
+logo_text = "IIBMErs"
 # navbar fixed to top
 navbar_fixed = false
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
+description = "Self-organized Biological and Medical Engineering students"
+author = "IIBMErs"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "0124857985320"
-email = "demo@email.com"
+phone = "+569 xxxxxx"
+email = "Instagram: @iibmers"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+IIBM, Instituto de Ingeniería Biológica y Médica 
+
+Campus San Joaquín - Avda.Vicuña Mackenna 4860
+Macul,
+
+Región Metropolitana, Chile.
 """
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright &copy; 2025 [IIBMers Github](https://github.com/IIBMErs). All Rights Reserved."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
@@ -136,3 +138,19 @@ icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons
 link = "#"
 
 
+################################# Social Media ################################
+#[[params.social]]
+#icon = "ion-social-twitter-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "https://twitter.com/IIBMErs_"
+
+#[[params.social]]
+#icon = "ion-social-instagram-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "https://www.instagram.com/iibmers/"
+
+#[[params.social]]
+#icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "https://www.facebook.com/iibmers"
+
+#[[params.social]]
+#icon = "ion-social-youtube-outline" #ionicon pack v2 : https://ionicons.com/v2/
+#link = "https://www.youtube.com/channel/UCkovYMRH5t05yrkC0AegO1A/featured"
