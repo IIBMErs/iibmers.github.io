@@ -1,0 +1,6 @@
+################# English language ################
+[en]
+languageName = "English"
+languageCode = "en-US"
+contentDir = "content/english"
+weight = 1

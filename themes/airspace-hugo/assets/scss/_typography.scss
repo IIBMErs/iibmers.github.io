@@ -1,4 +1,4 @@
-// Fonts 
+// Fonts
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:300,400,500,600);
 @import url(https://fonts.googleapis.com/css?family=Volkhov:400italic);
@@ -8,7 +8,7 @@
 
 body {
   line-height: 1.5;
-  font-family: $primary-font;
+  font-family: $font-primary;
   -webkit-font-smoothing: antialiased;
 
 }
@@ -19,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: $primary-font;
+  font-family: $font-primary;
 }
 
 h1,
@@ -32,23 +32,39 @@ h6 {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: $h1;
+
+  @include tablet {
+    font-size: $h1-md;
+  }
+
+  @include mobile {
+    font-size: $h2;
+  }
+
+  @include mobile-xs {
+    font-size: $h2-md;
+  }
 }
 
 h2 {
-  font-size: 28px;
+  font-size: $h2;
+
+  @include mobile {
+    font-size: $h2-sm;
+  }
 }
 
 h3 {
-  font-size: 20px;
+  font-size: $h3;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: $h4;
 }
 
 p {
-  color: #7B7B7B;
-  font-size: 15px;
-  font-family: $primary-font;
+  color: darken( $light, 49.41);
+  font-size: $font-size;
+  font-family: $font-primary;
 }

@@ -1,17 +1,20 @@
 .widget {
-  margin-bottom: 30px;
-  padding-bottom: 35px;
+  margin-bottom: 65px;
+
+  @include tablet {
+    margin-bottom: 35px;
+  }
 
   .widget-title {
+    margin-top: 0px;
     margin-bottom: 15px;
-    padding-bottom: 10px;
     font-size: 16px;
-    color: #333;
+    color: lighten( $black, 20 );
     font-weight: 500;
     border-bottom: 1px solid $border-color;
   }
 
-  // latest Posts
+  // Latest Posts
   &.widget-latest-post {
     .media {
       .media-object {
@@ -28,39 +31,61 @@
 
       p {
         font-size: 12px;
-        color: #808080;
+        color: darken( $light, 47.45);
       }
     }
+
+    @include desktop {
+      padding-top: 20px;
+    }
   }
+  //end Latest Posts
 
-  //end latest posts
-
-  // Caterogry
+  // Categories
   &.widget-category {
     ul {
       li {
-        margin-bottom: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
 
         a {
-          color: #837f7e;
-          @include transition (all, 0.3s, ease);
+          color: lighten( $black, 50.3 );
+          padding: 10px;
+          padding-left: 20px;
+          padding-right: 20px;
+          @include transition-multi (padding 0.3s ease, border 0.3s ease);
 
           &:before {
             padding-right: 10px;
           }
 
           &:hover {
-            color: $primary-color;
-            padding-left: 5px;
+            color: $color-primary;
+            padding-left: 25px;
           }
+
+          &:active {
+            padding-left: 24px;
+            border: 1px solid $color-primary;
+            border-radius: 30px;
+            @include transition (padding, 0s);
+          }
+        }
+
+        a.current {
+          color: $white;
+          background: $color-primary;
+          border: 1px solid $color-primary;
+          border-radius: 30px;
+          pointer-events: none;
+          cursor: default;
         }
       }
     }
   }
+  // end Categories
 
-  //end caterogry
-
-  // Tag Cloud
+  // Tags
   &.widget-tag {
     ul {
       li {
@@ -69,22 +94,37 @@
         margin-right: 5px;
 
         a {
-          color: #837f7e;
+          color: lighten( $black, 50.3 );
           display: inline-block;
           padding: 8px 15px;
-          border: 1px solid #dedede;
+          border: 1px solid $border-color;
           border-radius: 30px;
           font-size: 14px;
-          @include transition (all, 0.3s, ease);
+          @include transition-multi (background-color 0.3s ease, border 0.3s ease, color 0.1s ease);
 
           &:hover {
-            color: $light;
-            background: $primary-color;
-            border: 1px solid $primary-color;
+            color: $color-primary;
+            background: rgba($color-primary, 0.3);
+            border: 1px solid rgba($color-primary, 0.3);
           }
+
+          &:active {
+            color: $color-primary;
+            border: 1px solid $color-primary;
+            background: $white;
+            @include transition (background-color, 0.1s, ease);
+          }
+        }
+
+        a.current {
+          color: $white;
+          background: $color-primary;
+          border: 1px solid $color-primary;
+          pointer-events: none;
+          cursor: default;
         }
       }
     }
   }
-
+  // end Tags
 }

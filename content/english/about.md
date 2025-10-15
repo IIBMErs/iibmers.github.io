@@ -1,7 +1,7 @@
 ---
 title: "About Our Organization"
 description: "Self-organized Biological and Medical Engineering students"
-bg_image: "images/Nebula%20(1).jpg"
+bg_image: "images/Nebula-web.jpg"
 layout: "about"
 draft: false
 

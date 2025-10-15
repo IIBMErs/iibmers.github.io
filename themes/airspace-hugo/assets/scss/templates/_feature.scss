@@ -1,27 +1,35 @@
 .feature {
-	background: url("../img/feature-bg.jpg");
-	background-position: 50% 94px;
-	display: block;
-	position: relative;
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	padding: 100px 0;
+  background: url("../img/feature-bg.jpg");
+  background-position: 50% 94px;
+  display: block;
+  position: relative;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding: 100px 0;
 
-	h2 {
-		color: $light;
-		margin-bottom: 30px;
-	}
+  @include large-desktop {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-attachment: unset;
+  }
 
-	p {
-		color: $light;
-		margin-bottom: 20px;
-	}
+  h2 {
+    margin: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
 
-	.btn-view-works {
-		background: $primary-color;
-		color: #fff;
-		padding: 10px 20px;
-	}
+  p {
+    color: darken( $light, 41.37);
+    margin-bottom: 20px;
+  }
+
+  .btn-view-works {
+    background: lighten( $black, 42.35 );
+    color: $white;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+  }
 }
